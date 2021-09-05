@@ -1,0 +1,644 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2017-09-03T03:30:01.760Z,41.3324,129.0297,0,6.3,mb,,10,3.309,0.83,us,us2000aert,2021-07-21T03:13:08.341Z,"21 km ENE of S?ngjibaegam, North Korea",nuclear explosion,1.4,1.7,0.02,941,reviewed,us,us
+2016-09-09T00:30:01.440Z,41.2869,129.0783,0,5.3,mb,,,,0.68,us,us10006n8a,2016-12-07T02:56:06.040Z,"23 km ENE of S?ngjibaegam, North Korea",nuclear explosion,5.2,1.7,0.023,608,reviewed,spec,us
+2016-01-06T01:30:01.480Z,41.2996,129.0467,0,5.1,mb,,21,3.34,0.83,us,us10004bnm,2017-09-03T04:20:01.133Z,"21 km ENE of S?ngjibaegam, North Korea",nuclear explosion,6,1.7,0.032,306,reviewed,us,us
+2013-02-12T02:57:51.490Z,41.299,129.004,0,5.1,mb,426,39.1,,0.82,us,usc000f5t0,2016-01-07T00:17:26.255Z,"18 km ENE of S?ngjibaegam, North Korea",nuclear explosion,,,,296,reviewed,us,us
+2009-05-25T00:54:43.120Z,41.303,129.037,0,4.7,mb,131,41.2,,0.65,us,usp000gxgc,2016-02-12T16:57:38.987Z,"21 km ENE of S?ngjibaegam, North Korea",nuclear explosion,,,,53,reviewed,us,us
+2006-10-09T01:35:28.020Z,41.294,129.094,0,4.3,mb,31,83.3,,0.86,us,usp000eurb,2014-11-07T01:30:31.423Z,"25 km ENE of S?ngjibaegam, North Korea",nuclear explosion,,,,11,reviewed,us,us
+1998-05-30T06:54:54.940Z,28.493,63.731,0,4.6,mb,,,,0.97,us,usp0008nzp,2014-11-07T01:05:17.081Z,"79 km SW of Dalbandin, Pakistan",nuclear explosion,,,,35,reviewed,us,us
+1998-05-28T10:16:15.230Z,28.902,64.789,0,4.8,mb,,,,1.08,us,usp0008nv3,2014-11-07T01:05:16.446Z,"37 km E of Dalbandin, Pakistan",nuclear explosion,,,,55,reviewed,us,us
+1998-05-11T10:13:41.780Z,27.105,71.802,0,5.2,mb,,,,1.01,us,usp0008mw6,2014-11-07T01:05:12.350Z,"23 km NNW of Pokaran, India",nuclear explosion,,,,104,reviewed,us,us
+1996-07-29T01:48:57.830Z,41.824,88.42,0,4.9,mb,,,,0.7,us,usp0007msz,2014-11-07T01:00:51.000Z,"139 km SSW of Turpan, China",nuclear explosion,,,,43,reviewed,us,us
+1996-06-08T02:55:57.980Z,41.657,88.69,0,5.9,mb,,,,0.9,us,usp0007j9v,2014-11-07T01:00:35.101Z,"148 km SSW of Turpan, China",nuclear explosion,,,,178,reviewed,us,us
+1996-01-27T21:29:57.770Z,-22.236,-138.815,0,5.3,mb,,,,0.9,us,usp0007buw,2014-11-07T00:59:44.140Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,54,reviewed,us,us
+1995-12-27T21:29:58.030Z,-21.881,-138.973,0,5.1,mb,,,,0.9,us,usp00079qy,2014-11-07T00:59:29.858Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,36,reviewed,us,us
+1995-11-21T21:29:58.070Z,-21.879,-139.032,0,4.8,mb,,,,1,us,usp000777y,2014-11-07T00:59:12.316Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,24,reviewed,us,us
+1995-10-27T21:59:58.180Z,-21.891,-138.983,0,5.4,mb,,,,0.8,us,usp00075vn,2014-11-07T00:59:01.516Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,73,reviewed,us,us
+1995-10-01T23:29:57.970Z,-22.25,-138.745,0,5.4,mb,,,,0.9,us,usp00074ab,2014-11-07T00:58:51.843Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,61,reviewed,us,us
+1995-09-05T21:29:58.400Z,-21.852,-138.844,0,4.8,mb,,,,0.8,us,usp00072yu,2014-11-07T00:58:41.445Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,27,reviewed,us,us
+1995-08-17T00:59:57.730Z,41.559,88.8,0,6,mb,,,,0.9,us,usp00071xv,2014-11-07T00:58:32.668Z,"157 km SSW of Turpan, China",nuclear explosion,,,,166,reviewed,us,us
+1995-05-15T04:05:57.830Z,41.603,88.82,0,6.1,mb,,,,1,us,usp0006xcy,2014-11-07T00:57:55.672Z,"152 km S of Turpan, China",nuclear explosion,,,,175,reviewed,us,us
+1994-10-07T03:25:58.120Z,41.662,88.753,0,6,mb,,,,0.9,us,usp0006kqc,2014-11-07T00:56:28.836Z,"147 km SSW of Turpan, China",nuclear explosion,,,,138,reviewed,us,us
+1994-06-10T06:25:57.850Z,41.527,88.71,0,5.8,mb,,,,0.9,us,usp0006e1a,2014-11-07T00:55:40.655Z,"162 km SSW of Turpan, China",nuclear explosion,,,,133,reviewed,us,us
+1993-10-05T01:59:56.610Z,41.667,88.695,0,5.9,mb,,,,0.9,us,usp00061ge,2014-11-07T00:54:10.293Z,"147 km SSW of Turpan, China",nuclear explosion,,,,194,reviewed,us,us
+1992-09-25T07:59:59.940Z,41.763,88.387,10,5,mb,,,,1,us,usp0005efu,2015-06-16T15:46:41.370Z,"146 km SSW of Turpan, China",nuclear explosion,,,,50,reviewed,us,us
+1992-09-23T15:04:00.000Z,37.021,-115.988,0,4.4,mb,,,,,us,usp0005ect,2016-02-10T15:44:21.994Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5,reviewed,doe,us
+1992-09-18T17:00:00.010Z,37.207,-116.21,0,4.4,mb,,,,,us,usp0005e67,2016-04-02T15:13:57.589Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,7,reviewed,doe,us
+1992-06-23T15:00:00.070Z,37.124,-116.031,0,3.9,ml,,,,,us,usp00059hn,2016-04-01T23:07:30.348Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,gs$
+1992-06-19T16:45:00.000Z,37.005,-116.01,0,3,ml,,,,,us,usp00059b1,2016-04-01T21:13:08.719Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,gs$
+1992-05-21T04:59:57.570Z,41.604,88.813,0,6.5,mb,,,,0.8,us,usp00057t0,2014-11-07T00:50:40.114Z,"152 km SSW of Turpan, China",nuclear explosion,,,,121,reviewed,us,us
+1992-03-26T16:30:00.000Z,37.272,-116.36,0,5.5,mb,,,,,us,usp00054w1,2016-04-02T08:38:56.423Z,"53 km NE of Beatty, Nevada",nuclear explosion,,,,81,reviewed,doe,us
+1991-11-26T18:35:00.070Z,37.096,-116.07,0,4.6,mb,,,,,us,usp0004zq2,2016-04-01T23:14:14.715Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,11,reviewed,doe,us
+1991-10-18T19:12:00.000Z,37.063,-116.045,0,5.2,mb,,,,,us,usp0004xzt,2016-04-02T08:49:26.081Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,46,reviewed,doe,us
+1991-09-14T19:00:00.050Z,37.226,-116.428,0,5.5,mb,,,,,us,usp0004wmv,2016-02-04T22:36:59.500Z,"45 km NE of Beatty, Nevada",nuclear explosion,,,,75,reviewed,doe,us
+1991-08-15T16:00:00.000Z,37.087,-116.002,0,4.2,mb,,,,,us,usp0004vdc,2016-04-02T02:30:20.640Z,"Nevada",nuclear explosion,,,,2,reviewed,doe,us
+1991-07-15T18:09:58.330Z,-21.877,-138.963,0,5.3,mb,,,,1.2,us,usp0004u7d,2015-06-16T17:28:03.872Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,26,reviewed,us,us
+1991-06-14T17:59:57.860Z,-21.944,-138.988,0,5.2,mb,,,,1.3,us,usp0004sxb,2015-06-16T17:28:03.056Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,18,reviewed,us,us
+1991-05-29T18:59:58.240Z,-22.256,-138.794,0,5.5,mb,,,,0.9,us,usp0004s8a,2015-06-16T17:28:02.145Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,23,reviewed,us,us
+1991-05-18T17:14:58.530Z,-21.832,-139.014,0,5.1,mb,,,,0.9,us,usp0004rtu,2015-06-16T17:28:01.297Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1991-04-16T15:30:00.070Z,37.245,-116.442,0,5.4,mb,,,,,us,usp0004qdt,2016-04-02T12:05:23.214Z,"46 km NE of Beatty, Nevada",nuclear explosion,,,,62,reviewed,doe,us
+1991-04-04T19:00:00.000Z,37.296,-116.313,0,5.6,mb,,,,,us,usp0004py1,2016-04-01T23:08:58.232Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,70,reviewed,doe,us
+1991-03-08T21:02:45.080Z,37.104,-116.074,0,4.3,mb,,,,,us,usp0004nud,2016-04-02T18:22:55.568Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,8,reviewed,doe,us
+1990-11-21T16:59:58.150Z,-21.936,-138.967,0,5.4,mb,,,,1,us,usp0004h6k,2015-06-16T17:28:00.369Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,18,reviewed,us,us
+1990-11-14T19:17:00.710Z,37.227,-116.371,0,5.4,mb,,,,,us,usp0004gy0,2016-04-01T23:15:52.136Z,"49 km NE of Beatty, Nevada",nuclear explosion,,,,56,reviewed,doe,us
+1990-11-14T18:11:58.030Z,-22.258,-138.805,0,5.5,mb,,,,1.1,us,usp0004gxs,2015-06-16T17:27:59.513Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,18,reviewed,us,us
+1990-10-24T14:57:58.110Z,73.361,54.707,0,5.7,mb,,,,0.9,us,usp0004g3y,2015-06-16T17:27:58.577Z,"",nuclear explosion,,,,102,reviewed,us,us
+1990-10-12T17:30:00.080Z,37.248,-116.494,0,5.6,mb,,,,,us,usp0004fp1,2016-04-02T02:30:31.214Z,"44 km NNE of Beatty, Nevada",nuclear explosion,,,,75,reviewed,doe,us
+1990-09-27T22:10:11.240Z,37.1163333,-116.1163333,0.01,2.7,mh,5,237,,0.32,ci,ci2005492,2016-02-04T23:39:47.580Z,"61km ENE of Beatty, NV",nuclear explosion,7.15,31.61,,0,reviewed,ci,ci
+1990-08-16T04:59:57.690Z,41.564,88.77,0,6.2,mb,,,,0.9,us,usp0004dfg,2015-06-16T17:27:57.801Z,"157 km SSW of Turpan, China",nuclear explosion,,,,134,reviewed,us,us
+1990-07-25T15:00:00.060Z,37.207,-116.214,0,4.7,mb,,,,,us,usp0004chf,2016-04-01T23:16:48.228Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,24,reviewed,doe,us
+1990-07-04T17:59:58.670Z,-21.85,-139.042,0,5.1,mb,,,,0.9,us,usp0004bcn,2015-06-16T17:27:56.961Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,11,reviewed,us,us
+1990-06-26T17:59:58.250Z,-22.215,-138.841,0,5.5,mb,,,,0.9,us,usp0004b1a,2015-06-16T17:27:56.121Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,26,reviewed,us,us
+1990-06-21T18:15:00.000Z,36.993,-116.004,0,4,mb,,,,,us,usp0004atr,2016-04-02T18:29:17.847Z,"55 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5,reviewed,doe,us
+1990-06-13T16:00:00.010Z,37.262,-116.42,0,5.7,mb,,,,,us,usp0004af6,2016-04-02T02:32:53.068Z,"49 km NE of Beatty, Nevada",nuclear explosion,,,,85,reviewed,doe,us
+1990-06-02T17:29:58.540Z,-21.877,-138.918,0,5.3,mb,,,,0.7,us,usp0004a2m,2015-06-16T17:27:55.121Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1990-05-26T07:59:57.820Z,41.566,88.688,0,5.4,mb,,,,1,us,usp00049sz,2015-06-16T17:27:54.177Z,"158 km SSW of Turpan, China",nuclear explosion,,,,66,reviewed,us,us
+1990-04-06T17:00:01.170Z,37,-116.05,0,2.73,mc,0,261.4,,0.332,ci,ci1056759,2016-02-04T22:40:45.170Z,"63km E of Beatty, NV",nuclear explosion,,,,1,reviewed,ci,ci
+1989-12-08T15:00:00.090Z,37.231,-116.409,0,5.5,mb,,,,,us,usp00042vm,2016-04-01T20:01:58.462Z,"47 km NE of Beatty, Nevada",nuclear explosion,,,,61,reviewed,doe,us
+1989-11-27T16:59:58.060Z,-22.276,-138.836,0,5.6,mb,,,,1,us,usp00042gb,2015-06-16T17:27:53.337Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,19,reviewed,us,us
+1989-11-20T17:28:58.380Z,-21.851,-138.964,0,5.3,mb,,,,1,us,usp000428f,2015-06-16T17:27:52.497Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,13,reviewed,us,us
+1989-10-31T16:56:58.540Z,-21.826,-138.91,0,5.2,mb,,,,1,us,usp00041hv,2015-06-16T17:27:51.724Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1989-10-31T15:30:00.090Z,37.263,-116.491,0,5.7,mb,,,,,us,usp00041hu,2016-04-02T18:30:19.105Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,55,reviewed,doe,us
+1989-10-24T16:29:58.160Z,-21.908,-138.977,0,5.4,mb,,,,1,us,usp0004175,2015-06-16T17:27:50.826Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1989-10-19T09:49:57.280Z,49.937,78.972,0,6,mb,,,,0.9,us,usp00040yn,2015-06-16T17:27:49.777Z,"96 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,108,reviewed,us,us
+1989-10-04T11:29:57.670Z,49.746,78.013,0,4.6,mb,,,,0.7,us,usp00040ah,2015-06-16T17:27:48.578Z,"118 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,24,reviewed,us,us
+1989-09-14T15:00:00.100Z,37.236,-116.163,0,4.2,mb,,,,,us,usp0003zjs,2016-04-02T05:47:16.659Z,"58 km SW of Rachel, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1989-09-02T04:16:57.330Z,50.039,79.019,0,5,mb,,,,0.8,us,usp0003z52,2015-06-16T18:53:49.322Z,"86 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,60,reviewed,us,us
+1989-07-08T03:46:57.640Z,49.888,78.802,0,5.6,mb,,,,0.9,us,usp0003x3f,2015-06-16T17:27:27.627Z,"98 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,102,reviewed,us,us
+1989-06-27T15:30:00.020Z,37.275,-116.354,0,4.9,mb,,,,,us,usp0003wqd,2016-04-02T12:12:50.883Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,25,reviewed,doe,us
+1989-06-22T21:15:00.830Z,37.283,-116.412,0,5.3,mb,,,,,us,usp0003whe,2016-04-02T08:57:09.106Z,"51 km NE of Beatty, Nevada",nuclear explosion,,,,54,reviewed,doe,us
+1989-06-10T17:29:58.180Z,-22.252,-138.734,0,5.5,mb,,,,0.9,us,usp0003w5c,2015-06-16T18:53:35.736Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,18,reviewed,us,us
+1989-06-03T17:29:58.490Z,-21.835,-138.996,0,5.3,mb,,,,0.8,us,usp0003vy3,2015-06-16T17:26:13.124Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,12,reviewed,us,us
+1989-05-26T18:07:00.020Z,37.086,-116.055,0,3.7,ml,,,,,us,usp0003vp8,2016-04-02T03:52:21.262Z,"65 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1989-05-15T13:10:00.090Z,37.108,-116.121,0,4.4,mb,,,,,us,usp0003v8u,2016-04-01T23:17:55.401Z,"60 km ENE of Beatty, Nevada",nuclear explosion,,,,7,reviewed,doe,us
+1989-05-11T16:44:58.260Z,-21.853,-139.006,0,5.6,mb,,,,1.3,us,usp0003v5a,2015-06-16T17:26:12.445Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,5,reviewed,us,us
+1989-03-09T14:05:00.090Z,37.143,-116.067,0,5,mb,,,,,us,usp0003ssf,2016-04-02T05:44:53.812Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,19,reviewed,doe,us
+1989-02-24T16:15:00.080Z,37.128,-116.122,0,4.4,mb,,,,,us,usp0003s9p,2016-04-01T20:00:15.518Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1989-02-17T04:01:06.900Z,49.868,78.079,0,5,mb,,,,0.9,us,usp0003rzt,2015-06-16T17:26:11.747Z,"104 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,55,reviewed,us,us
+1989-02-12T04:15:06.820Z,49.925,78.74,0,5.9,mb,,,,0.9,us,usp0003rtt,2015-06-16T17:26:11.090Z,"93 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,122,reviewed,us,us
+1989-01-22T03:57:06.650Z,49.924,78.831,0,6.1,mb,,,,0.9,us,usp0003r3e,2015-06-16T17:26:10.387Z,"94 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,116,reviewed,us,us
+1988-12-17T04:18:06.940Z,49.886,78.926,0,5.9,mb,,,,0.9,us,usp0003px5,2015-06-16T17:26:09.555Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,107,reviewed,us,us
+1988-12-04T05:19:53.000Z,73.387,54.998,0,5.9,mb,,,,0.9,us,usp0003pgm,2015-06-16T17:26:01.849Z,"Novaya Zemlya, Russia",nuclear explosion,,,,87,reviewed,us,us
+1988-11-30T17:54:57.990Z,-22.244,-138.836,0,5.5,mb,,,,1.1,us,usp0003pd7,2015-06-16T17:26:01.235Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,19,reviewed,us,us
+1988-11-23T17:00:58.000Z,-21.991,-138.907,0,5.4,mb,,,,1,us,usp0003p4c,2015-06-16T17:26:00.443Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,15,reviewed,us,us
+1988-11-23T03:57:06.740Z,49.818,78.071,0,5.3,mb,,,,0.9,us,usp0003p3u,2017-04-26T17:42:28.180Z,"109 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,67,reviewed,us,us
+1988-11-12T03:30:03.770Z,50.078,78.988,0,5.3,mb,,,,0.9,us,usp0003nte,2017-04-26T17:42:25.107Z,"81 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,71,reviewed,us,us
+1988-11-05T16:29:58.400Z,-21.883,-139.046,0,5.4,mb,,,,1,us,usp0003nju,2015-06-16T17:25:55.619Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,11,reviewed,us,us
+1988-10-18T03:40:06.670Z,49.866,78.081,0,4.9,mb,,,,0.8,us,usp0003mxm,2015-06-16T17:25:54.834Z,"104 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,26,reviewed,us,us
+1988-10-13T14:00:00.080Z,37.089,-116.049,0,5.9,mb,,,,,us,usp0003msv,2016-04-02T18:30:37.298Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,82,reviewed,doe,us
+1988-09-29T07:00:03.110Z,41.75,88.474,33,4.7,mb,,,,1.6,us,usp0003mbn,2015-06-16T15:45:38.020Z,"145 km SSW of Turpan, China",nuclear explosion,,,,7,reviewed,us,us
+1988-09-14T03:59:57.450Z,49.833,78.808,0,6.1,mb,,,,0.9,us,usp0003kyj,2014-11-07T00:42:49.134Z,"103 km NNW of Qara?yl, Kazakhstan",nuclear explosion,,,,135,reviewed,us,us
+1988-09-06T16:19:58.680Z,61.331,47.955,8.9,4.8,mb,,,,1,us,usp0003kr4,2017-10-19T18:54:11.697Z,"24 km N of Il’insko-Podomskoye, Russia",nuclear explosion,,,,46,reviewed,us,us
+1988-08-30T18:00:00.090Z,37.086,-116.069,0,5,mb,,,,,us,usp0003kha,2016-04-02T12:13:01.411Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,47,reviewed,doe,us
+1988-08-23T18:29:59.790Z,36.994,-116.012,5,4.1,mb,,,,0.5,us,usp0003kar,2016-04-02T08:57:14.607Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,1,reviewed,us,us
+1988-08-22T16:19:58.260Z,66.316,78.548,0,5.3,mb,,,,0.7,us,usp0003k9d,2015-06-16T17:25:54.060Z,"39 km NNE of Urengoy, Russia",nuclear explosion,,,,85,reviewed,us,us
+1988-08-17T17:00:00.090Z,37.297,-116.307,0,5.5,mb,,,,,us,usp0003k3a,2016-02-04T05:34:57.020Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,82,reviewed,doe,us
+1988-07-07T15:05:30.070Z,37.252,-116.377,0,5.6,mb,,,,,us,usp0003hpc,2016-04-02T02:33:56.621Z,"51 km NE of Beatty, Nevada",nuclear explosion,,,,65,reviewed,doe,us
+1988-06-23T17:30:58.610Z,-21.906,-139.016,0,5.3,mb,,,,0.9,us,usp0003h7n,2015-06-16T17:25:53.211Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,13,reviewed,us,us
+1988-06-22T14:00:00.080Z,37.166,-116.072,0,3.1,ml,,,,,us,usp0003h6h,2016-04-02T07:05:11.732Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1988-06-14T02:27:06.420Z,50.045,79.005,0,5,mb,,,,0.8,us,usp0003gz7,2015-06-16T17:25:52.363Z,"85 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,60,reviewed,us,us
+1988-06-02T13:00:00.090Z,37.26,-116.441,0,5.4,mb,,,,,us,usp0003gn1,2016-04-02T05:47:28.739Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,68,reviewed,doe,us
+1988-05-25T17:00:58.440Z,-21.903,-139.009,0,5.6,mb,,,,0.8,us,usp0003gcs,2015-06-16T17:25:51.509Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,21,reviewed,us,us
+1988-05-21T22:30:00.140Z,37.032,-115.987,0,4.3,mb,,,,,us,usp0003g73,2016-04-02T02:33:54.656Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,3,reviewed,doe,us
+1988-05-13T15:35:00.110Z,37.124,-116.072,0,4.8,mb,,,,,us,usp0003fxz,2016-04-02T18:30:33.959Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,20,reviewed,doe,us
+1988-05-11T16:59:58.390Z,-21.867,-139.072,0,5.5,mb,,,,1.1,us,usp0003fvp,2015-06-16T17:25:50.683Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,14,reviewed,us,us
+1988-05-07T22:49:58.120Z,73.364,54.445,0,5.6,mb,,,,0.8,us,usp0003frv,2015-06-16T17:25:49.834Z,"Novaya Zemlya, Russia",nuclear explosion,,,,86,reviewed,us,us
+1988-05-04T00:57:06.830Z,49.928,78.769,0,6.1,mb,,,,0.9,us,usp0003fmx,2017-04-26T17:41:56.565Z,"93 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,112,reviewed,us,us
+1988-04-22T09:30:06.930Z,49.822,78.119,0,4.9,mb,,,,0.8,us,usp0003f8w,2015-06-16T17:25:48.011Z,"eastern Kazakhstan",nuclear explosion,,,,32,reviewed,us,us
+1988-04-07T17:15:00.080Z,37.013,-116.044,0,4,mb,,,,,us,usp0003esr,2016-04-01T20:02:05.712Z,"59 km NW of Indian Springs, Nevada",nuclear explosion,,,,3,reviewed,doe,us
+1988-04-03T01:33:05.850Z,49.917,78.945,0,6.1,mb,,,,0.8,us,usp0003em3,2017-04-26T17:41:52.265Z,"97 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,96,reviewed,us,us
+1988-02-15T18:10:00.090Z,37.314,-116.471,0,5.3,mb,,,,,us,usp0003d1q,2016-04-02T08:57:01.001Z,"51 km NNE of Beatty, Nevada",nuclear explosion,,,,60,reviewed,doe,us
+1988-02-13T03:05:05.980Z,49.954,78.91,0,6.1,mb,,,,0.8,us,usp0003czn,2015-06-16T17:25:46.301Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,121,reviewed,us,us
+1988-02-06T04:19:11.150Z,49.799,78.064,33,4.8,mb,,,,0.8,us,usp0003csg,2017-10-19T18:54:15.906Z,"111 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,21,reviewed,us,us
+1987-12-27T03:05:04.770Z,49.864,78.758,0,6.1,mb,,,,0.8,us,usp0003bkh,2015-06-16T17:25:45.595Z,"100 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,131,reviewed,us,us
+1987-12-20T02:55:06.700Z,49.829,78,0,4.8,mb,,,,0.8,us,usp0003be4,2015-06-16T17:25:44.932Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,34,reviewed,us,us
+1987-12-13T03:21:04.890Z,49.989,78.844,0,6.1,mb,,,,0.9,us,usp0003b88,2015-06-16T17:25:44.005Z,"88 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,123,reviewed,us,us
+1987-11-19T16:30:58.390Z,-21.904,-138.995,0,5.9,mb,,,,0.9,us,usp0003a93,2015-06-16T17:25:43.201Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,25,reviewed,us,us
+1987-11-15T03:31:06.700Z,49.871,78.791,0,6,mb,,,,0.8,us,usp0003a4q,2015-06-16T17:25:42.369Z,"100 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,128,reviewed,us,us
+1987-11-05T17:29:58.600Z,-21.812,-138.959,0,5.7,mb,,,,0.9,us,usp00039wr,2015-06-16T17:25:41.546Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,6,reviewed,us,us
+1987-10-23T16:49:58.750Z,-21.822,-139.029,0,5.5,mb,,,,0.8,us,usp00039hn,2015-06-16T17:25:40.684Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,20,reviewed,us,us
+1987-10-23T16:00:00.090Z,37.142,-116.079,0,5.2,mb,,,,,us,usp00039hj,2016-04-02T12:13:29.503Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,53,reviewed,doe,us
+1987-10-16T06:06:04.300Z,49.769,78.266,5,4.6,mb,,,,0.6,us,usp00039a8,2017-10-19T18:54:18.139Z,"111 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,8,reviewed,us,us
+1987-10-03T15:14:57.400Z,47.605,56.227,0,5.2,mb,,,,1.1,us,usp00038ya,2015-06-16T17:25:39.915Z,"123 km SSE of Bayganin, Kazakhstan",nuclear explosion,,,,51,reviewed,us,us
+1987-09-24T15:00:00.060Z,37.228,-116.375,0,5.7,mb,,,,,us,usp00038p8,2016-04-02T08:57:59.754Z,"Nevada",nuclear explosion,,,,67,reviewed,doe,us
+1987-09-18T02:32:09.140Z,50.179,78.023,5,4.3,mb,,,,0.4,us,usp00038g1,2015-06-16T15:45:12.774Z,"74 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,7,reviewed,us,us
+1987-08-13T14:00:00.090Z,37.061,-116.045,0,5.9,mb,,,,,us,usp00037ga,2016-04-01T23:18:10.413Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,71,reviewed,doe,us
+1987-08-12T01:29:56.870Z,61.455,112.76,0,5,mb,,,,0.8,us,usp00037f9,2015-06-16T17:25:39.052Z,"135 km SSW of Mirny, Russia",nuclear explosion,,,,56,reviewed,us,us
+1987-08-02T01:59:59.820Z,73.339,54.626,0,5.8,mb,,,,0.8,us,usp0003759,2015-06-16T17:25:38.204Z,"Novaya Zemlya, Russia",nuclear explosion,,,,91,reviewed,us,us
+1987-08-02T00:58:06.820Z,49.88,78.917,0,5.9,mb,,,,0.8,us,usp0003756,2015-06-16T17:25:37.497Z,"101 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,107,reviewed,us,us
+1987-07-24T01:59:56.800Z,61.478,112.753,0,5.1,mb,,,,0.9,us,usp00036ww,2015-06-16T17:25:36.652Z,"133 km SSW of Mirny, Russia",nuclear explosion,,,,57,reviewed,us,us
+1987-07-17T01:17:07.030Z,49.799,78.11,0,5.8,mb,,,,0.9,us,usp00036q1,2015-06-16T17:25:35.941Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,79,reviewed,us,us
+1987-07-16T19:00:00.080Z,37.104,-116.023,0,4.8,mb,,,,,us,usp00036pt,2016-04-02T15:22:15.607Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,33,reviewed,doe,us
+1987-07-06T23:59:56.750Z,61.501,112.803,0,5.1,mb,,,,0.9,us,usp00036dw,2015-06-16T17:25:35.148Z,"130 km SSW of Mirny, Russia",nuclear explosion,,,,62,reviewed,us,us
+1987-06-30T16:05:00.100Z,36.999,-116.043,0,4.1,mb,,,,,us,usp0003679,2016-04-02T18:30:26.360Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,2,reviewed,doe,us
+1987-06-21T17:54:57.910Z,-22.049,-138.715,0,5.1,mb,,,,0.9,us,usp00035za,2015-06-16T17:25:34.509Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1987-06-20T16:00:00.180Z,37.22,-116.178,0,3.5,ml,,,,,us,usp00035y4,2016-04-02T18:30:25.068Z,"60 km SW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1987-06-20T00:53:04.830Z,49.913,78.735,0,6.1,mb,,,,0.9,us,usp00035xc,2015-06-16T17:25:33.509Z,"94 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,127,reviewed,us,us
+1987-06-18T15:20:00.080Z,37.194,-116.035,0,4.1,ml,,,,,us,usp00035w9,2016-04-01T20:02:10.863Z,"56 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1987-06-06T17:59:59.320Z,-21.752,-138.889,0,4.7,mb,,,,0.8,us,usp00035k4,2015-06-16T17:25:32.836Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,2,reviewed,us,us
+1987-06-06T02:37:07.030Z,49.859,78.108,0,5.3,mb,,,,0.8,us,usp00035je,2015-06-16T17:25:31.901Z,"104 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,80,reviewed,us,us
+1987-06-05T04:59:58.390Z,41.584,88.737,0,6.2,mb,,,,0.9,us,usp00035hr,2015-06-16T17:25:31.117Z,"155 km SSW of Turpan, China",nuclear explosion,,,,139,reviewed,us,us
+1987-05-20T17:04:58.260Z,-21.893,-138.964,0,5.6,mb,,,,0.9,us,usp000354z,2015-06-16T17:25:30.197Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,29,reviewed,us,us
+1987-05-06T04:02:05.620Z,49.83,78.125,0,5.6,mb,,,,0.9,us,usp00034rx,2017-04-26T17:40:58.722Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,89,reviewed,us,us
+1987-05-05T16:57:57.700Z,-21.9,-139.096,0,4.9,mb,,,,1,us,usp00034rg,2015-06-16T17:25:28.461Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,3,reviewed,us,us
+1987-04-30T13:30:00.090Z,37.233,-116.423,0,5.5,mb,,,,,us,usp00034ku,2016-04-02T08:57:10.651Z,"46 km NE of Beatty, Nevada",nuclear explosion,,,,67,reviewed,doe,us
+1987-04-19T04:04:55.680Z,60.813,57.548,0,4.4,mb,,,,0.6,us,usp000349m,2015-06-16T17:25:27.564Z,"45 km E of Nyrob, Russia",nuclear explosion,,,,18,reviewed,us,us
+1987-04-19T03:59:57.160Z,60.52,57.083,0,4.5,mb,,,,1.2,us,usp000349k,2015-06-16T17:25:26.628Z,"12 km N of Krasnovishersk, Russia",nuclear explosion,,,,17,reviewed,us,us
+1987-04-18T13:40:00.600Z,37.248,-116.509,0,5.5,mb,,,,,us,usp000348v,2016-04-02T02:33:42.921Z,"43 km NNE of Beatty, Nevada",nuclear explosion,,,,72,reviewed,doe,us
+1987-04-17T01:03:04.810Z,49.886,78.691,0,6,mb,,,,0.8,us,usp000347p,2015-06-16T17:25:25.772Z,"97 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,108,reviewed,us,us
+1987-04-03T01:17:08.080Z,49.928,78.829,0,6.2,mb,,,,0.9,us,usp00033vd,2015-06-16T17:25:24.836Z,"94 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,118,reviewed,us,us
+1987-03-18T18:28:00.090Z,37.21,-116.209,0,4.3,mb,,,,,us,usp00033e0,2016-04-01T23:18:08.822Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1987-03-12T01:57:17.240Z,49.939,78.823,0,5.5,mb,,,,0.8,us,usp000337f,2015-06-16T17:25:23.908Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,88,reviewed,us,us
+1987-02-26T04:58:22.030Z,49.839,78.122,0,5.4,mb,,,,0.9,us,usp00032sp,2017-04-26T17:40:41.709Z,"106 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,72,reviewed,us,us
+1987-02-11T16:45:00.060Z,37.011,-116.045,0,4.5,mb,,,,,us,usp00032d8,2016-04-02T05:47:24.193Z,"59 km NW of Indian Springs, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1986-12-13T17:50:05.090Z,37.263,-116.412,0,5.5,mb,,,,,us,usp00030v1,2016-04-02T08:58:52.315Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,73,reviewed,doe,us
+1986-12-10T17:14:58.340Z,-21.926,-138.917,0,5.2,mb,,,,0.6,us,usp00030sh,2015-06-16T17:25:22.180Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,12,reviewed,us,us
+1986-11-14T16:00:00.070Z,37.1,-116.048,0,5.8,mb,,,,,us,usp0002zzw,2016-04-02T05:49:07.823Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,79,reviewed,doe,us
+1986-11-12T17:01:58.330Z,-21.911,-139.085,0,5.3,mb,,,,1,us,usp0002zxp,2015-06-16T17:25:21.220Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,14,reviewed,us,us
+1986-10-16T19:25:00.090Z,37.22,-116.462,0,5.6,mb,,,,,us,usp0002z08,2016-04-01T23:19:40.252Z,"43 km NE of Beatty, Nevada",nuclear explosion,,,,80,reviewed,doe,us
+1986-09-30T22:30:00.100Z,37.3,-116.307,0,5.5,mb,,,,,us,usp0002yj1,2016-04-01T23:19:10.951Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,73,reviewed,doe,us
+1986-09-11T14:57:00.110Z,37.069,-116.05,0,3.2,ml,,,,,us,usp0002xzy,2016-04-02T18:32:25.741Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1986-09-04T16:09:00.190Z,37.236,-116.352,5,3.5,ml,,,,0.4,us,usp0002xty,2016-02-03T19:33:19.680Z,"51 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1986-07-24T15:05:00.080Z,37.143,-116.071,0,4.4,mb,,,,,us,usp0002wfh,2016-04-02T02:35:59.386Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,11,reviewed,doe,us
+1986-07-17T21:00:00.060Z,37.279,-116.356,0,5.7,mb,,,,,us,usp0002w4a,2016-04-02T18:32:27.191Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,81,reviewed,doe,us
+1986-06-05T15:04:00.060Z,37.098,-116.016,0,5.3,mb,,,,,us,usp0002utq,2016-04-01T23:18:20.803Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,62,reviewed,doe,us
+1986-05-30T17:24:58.290Z,-21.898,-139.026,0,5.7,mb,,,,0.8,us,usp0002um2,2015-06-16T17:25:20.244Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,27,reviewed,us,us
+1986-05-21T13:59:00.080Z,37.125,-116.06,0,3.9,ml,,,,,us,usp0002u93,2016-04-02T12:13:02.756Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1986-04-26T17:01:56.670Z,-22.154,-139.115,0,4.8,mb,,,,0.5,us,usp0002t7f,2015-06-16T17:25:19.014Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,4,reviewed,us,us
+1986-04-22T14:30:00.090Z,37.264,-116.44,0,5.3,mb,,,,,us,usp0002t40,2016-04-02T08:57:49.539Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,56,reviewed,doe,us
+1986-04-10T14:08:30.100Z,37.218,-116.183,0,4.9,mb,,,,,us,usp0002str,2016-04-01T23:18:25.953Z,"61 km SW of Rachel, Nevada",nuclear explosion,,,,43,reviewed,doe,us
+1986-03-22T16:15:00.080Z,37.083,-116.066,0,5.1,mb,,,,,us,usp0002s3j,2016-04-02T02:34:06.583Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,49,reviewed,doe,us
+1985-12-28T19:01:00.090Z,37.238,-116.473,0,5.3,mb,,,,,us,usp0002phg,2016-04-02T18:32:52.949Z,"44 km NE of Beatty, Nevada",nuclear explosion,,,,57,reviewed,doe,us
+1985-12-05T15:00:00.070Z,37.053,-116.045,0,5.7,mb,,,,,us,usp0002nju,2016-04-02T09:01:23.095Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,89,reviewed,doe,us
+1985-11-26T17:41:58.440Z,-21.867,-138.929,0,5.8,mb,,,,0.9,us,usp0002n8e,2015-06-16T17:25:18.140Z,"",nuclear explosion,,,,30,reviewed,us,us
+1985-11-24T16:00:58.560Z,-21.861,-138.766,0,4.7,mb,,,,0.9,us,usp0002n64,2015-06-16T17:25:17.195Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,11,reviewed,us,us
+1985-10-26T16:34:58.390Z,-21.855,-138.969,0,5.4,mb,,,,1,us,usp0002m5g,2015-06-16T17:25:16.227Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,15,reviewed,us,us
+1985-10-16T21:35:00.090Z,37.11,-116.121,0,4.6,mb,,,,,us,usp0002kut,2016-04-01T20:04:25.689Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,12,reviewed,doe,us
+1985-10-09T23:20:00.090Z,37.21,-116.21,0,4.2,mb,,,,,us,usp0002kn7,2016-04-01T20:04:28.342Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,2,reviewed,doe,us
+1985-09-27T14:15:00.090Z,37.09,-116.002,0,4.6,mb,,,,,us,usp0002k6u,2016-04-02T15:23:57.332Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,16,reviewed,doe,us
+1985-08-17T16:25:00.090Z,37.002,-116.043,0,4.6,mb,,,,,us,usp0002hv4,2016-04-02T12:14:48.792Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1985-07-25T14:00:00.090Z,37.297,-116.438,0,5.2,mb,,,,,us,usp0002h2w,2016-04-02T05:49:41.249Z,"51 km NNE of Beatty, Nevada",nuclear explosion,,,,57,reviewed,doe,us
+1985-07-25T03:11:06.530Z,49.894,78.15,0,5,mb,,,,0.8,us,usp0002h2j,2015-06-16T17:25:15.285Z,"99 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,46,reviewed,us,us
+1985-07-20T00:53:14.590Z,49.951,78.829,0,5.9,mb,,,,0.9,us,usp0002gxg,2015-06-16T17:25:14.600Z,"91 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,126,reviewed,us,us
+1985-07-18T21:14:57.430Z,65.97,40.863,0,5,mb,,,,1.1,us,usp0002gwb,2015-06-16T17:25:13.796Z,"148 km W of Kamenka, Russia",nuclear explosion,,,,58,reviewed,us,us
+1985-06-30T02:39:02.790Z,49.861,78.696,0,6,mb,,,,0.8,us,usp0002g9b,2014-11-07T00:36:46.104Z,"100 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,124,reviewed,us,us
+1985-06-26T18:03:00.080Z,37.124,-116.122,0,4.3,mb,,,,,us,usp0002g68,2016-04-01T20:04:32.189Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1985-06-15T00:57:00.790Z,49.889,78.881,0,6,mb,,,,0.9,us,usp0002fv4,2014-11-07T00:36:43.896Z,"99 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,130,reviewed,us,us
+1985-06-12T17:30:00.090Z,37.088,-116.084,0,4.4,mb,,,,,us,usp0002fs8,2016-04-02T05:49:50.529Z,"63 km ENE of Beatty, Nevada",nuclear explosion,,,,3,reviewed,doe,us
+1985-06-12T15:15:00.080Z,37.248,-116.489,0,5.5,mb,,,,,us,usp0002fs6,2016-04-02T12:15:07.977Z,"44 km NNE of Beatty, Nevada",nuclear explosion,,,,67,reviewed,doe,us
+1985-06-03T17:29:58.010Z,-22.056,-138.862,0,5.2,mb,,,,1,us,usp0002fg1,2015-06-16T17:25:12.971Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,4,reviewed,us,us
+1985-05-02T15:20:00.080Z,37.253,-116.325,0,5.7,mb,,,,,us,usp0002ed1,2016-04-02T18:32:34.648Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,81,reviewed,doe,us
+1985-04-30T17:28:57.960Z,-22.075,-138.904,0,4.5,mb,,,,1,us,usp0002eau,2015-06-16T17:25:12.101Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,7,reviewed,us,us
+1985-04-25T00:57:06.500Z,49.924,78.969,0,5.9,mb,,,,0.9,us,usp0002e4n,2014-11-07T00:36:28.215Z,"97 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,115,reviewed,us,us
+1985-04-06T23:15:00.090Z,37.201,-116.207,0,4.8,mb,,,,,us,usp0002dj7,2016-04-02T02:36:11.391Z,"58 km ENE of Beatty, Nevada",nuclear explosion,,,,28,reviewed,doe,us
+1985-03-23T18:30:00.080Z,37.18,-116.089,0,5.3,mb,,,,,us,usp0002d5a,2016-04-02T12:14:54.720Z,"59 km SSW of Rachel, Nevada",nuclear explosion,,,,68,reviewed,doe,us
+1985-03-15T16:31:00.100Z,37.058,-116.045,0,4.8,mb,,,,,us,usp0002cx3,2016-04-02T03:42:35.339Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,28,reviewed,doe,us
+1985-02-10T03:27:07.620Z,49.877,78.816,0,5.9,mb,,,,0.8,us,usp0002bs3,2014-11-07T00:36:09.978Z,"99 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,126,reviewed,us,us
+1984-12-28T03:50:10.720Z,49.861,78.752,0,6,mb,,,,0.8,us,usp0002aft,2015-06-16T17:25:11.168Z,"100 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,125,reviewed,us,us
+1984-12-20T16:19:59.760Z,36.979,-116.006,2,4.2,mb,,,,0.6,us,usp0002a8z,2016-04-01T23:25:56.144Z,"54 km NNW of Indian Springs, Nevada",nuclear explosion,,1.4,,1,reviewed,us,us
+1984-12-19T06:00:04.260Z,41.68,88.443,44.6,4.7,mb,,,,1.2,us,usp0002a7m,2015-06-16T15:43:17.726Z,"153 km SSW of Turpan, China",nuclear explosion,,7.9,,11,reviewed,us,us
+1984-12-16T03:55:02.750Z,49.957,78.862,0,6.1,mb,,,,0.9,us,usp0002a3e,2014-11-07T00:35:52.785Z,"91 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,136,reviewed,us,us
+1984-12-15T14:45:00.000Z,37.281,-116.305,0,5.4,mb,,,,,us,usp0002a2j,2016-04-02T12:22:29.031Z,"57 km NE of Beatty, Nevada",nuclear explosion,,,,65,reviewed,doe,us
+1984-12-09T19:40:00.090Z,37.27,-116.498,0,5.5,mb,,,,,us,usp00029ws,2016-04-02T12:22:25.242Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,89,reviewed,doe,us
+1984-12-06T17:28:58.630Z,-21.848,-138.913,0,5.6,mb,,,,0.8,us,usp00029ub,2015-06-16T17:25:10.365Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,29,reviewed,us,us
+1984-12-02T03:19:06.330Z,49.993,79.072,0,5.8,mb,,,,0.9,us,usp00029pz,2014-11-07T00:35:48.140Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,135,reviewed,us,us
+1984-11-23T03:55:04.840Z,49.897,78.132,0,4.7,mb,,,,0.6,us,usp00029az,2015-06-16T17:25:09.500Z,"99 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,21,reviewed,us,us
+1984-11-10T16:40:00.090Z,37,-116.017,0,4.5,mb,,,,,us,usp00028ys,2016-04-01T23:27:28.842Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,5,reviewed,doe,us
+1984-10-27T06:04:56.730Z,46.842,48.083,0,5,mb,,,,0.9,us,usp00028j9,2017-04-26T17:38:15.015Z,"7 km NE of Aksarayskiy, Russia",nuclear explosion,,,,56,reviewed,us,us
+1984-10-27T05:59:57.140Z,46.857,48.098,0,5,mb,,,,1,us,usp00028j8,2017-04-26T17:38:14.385Z,"9 km NE of Aksarayskiy, Russia",nuclear explosion,,,,71,reviewed,us,us
+1984-10-27T01:50:10.610Z,49.949,78.834,0,6.2,mb,,,,0.9,us,usp00028j4,2014-11-07T00:35:36.713Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,136,reviewed,us,us
+1984-10-25T06:29:57.780Z,73.37,54.955,0,5.9,mb,,,,0.7,us,usp00028g1,2014-11-07T00:35:36.330Z,"Novaya Zemlya, Russia",nuclear explosion,,,,111,reviewed,us,us
+1984-10-18T04:57:05.790Z,49.8,78.141,0,4.5,mb,,,,0.8,us,usp000288k,2015-06-16T17:25:06.550Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,16,reviewed,us,us
+1984-10-03T05:59:57.820Z,41.602,88.73,0,5.3,mb,,,,0.9,us,usp00027w1,2014-11-07T00:35:32.312Z,"153 km SSW of Turpan, China",nuclear explosion,,,,68,reviewed,us,us
+1984-10-02T18:13:59.390Z,37.076,-115.989,2.1,4.2,mb,,,,0.7,us,usp00027vh,2016-04-02T18:38:26.929Z,"62 km NNW of Indian Springs, Nevada",nuclear explosion,,1.2,,1,reviewed,us,us
+1984-09-17T20:59:57.510Z,55.87,87.446,0,4.9,mb,,,,0.9,us,usp00027fr,2015-06-16T17:25:05.773Z,"20 km SSW of Verkh-Chebula, Russia",nuclear explosion,,,,43,reviewed,us,us
+1984-09-13T14:00:00.000Z,37.087,-116.071,0,5,mb,,,,,us,usp00027bt,2016-04-02T09:07:18.719Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,39,reviewed,doe,us
+1984-09-09T02:59:06.450Z,49.869,78.176,0,5,mb,,,,0.9,us,usp000277k,2015-06-16T17:25:05.046Z,"102 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,43,reviewed,us,us
+1984-08-30T14:45:00.100Z,37.09,-115.998,0,4.5,mb,,,,,us,usp00026vh,2016-04-02T02:43:40.098Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1984-08-28T03:04:55.210Z,60.791,57.544,0,4.3,mb,,,,0.7,us,usp00026t1,2015-06-16T17:25:04.214Z,"Ural Mountains region, Russia",nuclear explosion,,,,15,reviewed,us,us
+1984-08-28T02:59:55.540Z,60.826,57.472,0,4.4,mb,,,,0.8,us,usp00026t0,2015-06-16T17:25:03.438Z,"42 km ENE of Nyrob, Russia",nuclear explosion,,,,10,reviewed,us,us
+1984-08-27T05:59:57.090Z,67.774,33.688,0,4.5,mb,,,,1.2,us,usp00026s8,2015-06-16T17:25:02.684Z,"17 km N of Kirovsk, Russia",nuclear explosion,,,,18,reviewed,us,us
+1984-08-25T18:59:58.620Z,61.876,72.092,0,5.4,mb,,,,0.8,us,usp00026qq,2014-11-07T00:35:20.155Z,"28 km N of Lyantor, Russia",nuclear explosion,,,,87,reviewed,us,us
+1984-08-11T18:59:57.850Z,65.025,55.187,0,5.3,mb,,,,0.9,us,usp00026bs,2014-11-07T00:35:18.283Z,"60 km E of Izhma, Russia",nuclear explosion,,,,69,reviewed,us,us
+1984-08-02T15:00:00.090Z,37.017,-116.008,0,4.7,mb,,,,,us,usp000265y,2016-04-02T12:15:17.050Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,9,reviewed,doe,us
+1984-07-25T15:30:00.080Z,37.268,-116.411,0,5.3,mb,,,,,us,usp00025zj,2016-04-02T05:49:52.188Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,55,reviewed,doe,us
+1984-07-21T03:09:57.080Z,51.353,53.271,0,5.3,mb,,,,1,us,usp00025vz,2017-04-26T17:38:00.694Z,"20 km SSW of Ilek, Russia",nuclear explosion,,,,75,reviewed,us,us
+1984-07-21T03:04:57.050Z,51.374,53.257,0,5.3,mb,,,,0.9,us,usp00025vy,2017-04-26T17:38:00.063Z,"19 km SSW of Ilek, Russia",nuclear explosion,,,,76,reviewed,us,us
+1984-07-21T02:59:57.150Z,51.356,53.249,0,5.4,mb,,,,0.9,us,usp00025vx,2017-04-26T17:37:59.436Z,"21 km SSW of Ilek, Russia",nuclear explosion,,,,65,reviewed,us,us
+1984-07-14T01:09:10.570Z,49.891,78.963,0,6.2,mb,,,,0.9,us,usp00025qv,2014-11-07T00:35:11.394Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,116,reviewed,us,us
+1984-07-12T13:59:59.990Z,37.186,-116.012,5,3.6,mb,,,,0.7,us,usp00025q6,2016-04-01T20:04:48.407Z,"56 km SSW of Rachel, Nevada",nuclear explosion,,,,1,reviewed,us,us
+1984-06-20T15:15:00.090Z,37,-116.043,0,4.6,mb,,,,,us,usp000254t,2016-04-02T12:15:20.291Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,7,reviewed,doe,us
+1984-06-16T17:43:57.900Z,-21.933,-138.992,0,5.3,mb,,,,1,us,usp000252f,2015-06-16T17:24:59.925Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,16,reviewed,us,us
+1984-05-31T13:04:00.100Z,37.103,-116.048,0,5.8,mb,,,,,us,usp00024s3,2016-04-01T23:20:39.265Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,85,reviewed,doe,us
+1984-05-26T03:13:12.470Z,49.98,79.06,0,6,mb,,,,0.9,us,usp00024mv,2014-11-07T00:34:56.261Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,108,reviewed,us,us
+1984-05-16T15:59:59.380Z,37.091,-115.994,5,3.5,ml,,,,0.5,us,usp00024e4,2016-04-01T23:20:37.444Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1984-05-12T17:30:58.330Z,-21.852,-138.961,0,5.7,mb,,,,1,us,usp00024at,2015-06-16T17:24:58.966Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,29,reviewed,us,us
+1984-05-02T13:49:59.610Z,37.189,-116.016,5,3.3,ml,,,,0.4,us,usp000242p,2016-04-02T15:24:16.225Z,"56 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1984-05-01T19:05:00.090Z,37.106,-116.022,0,5.3,mb,,,,,us,usp000241u,2016-04-02T02:36:26.167Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,55,reviewed,doe,us
+1984-04-25T01:09:03.520Z,49.953,78.94,0,5.9,mb,,,,0.9,us,usp00023vs,2015-06-16T17:24:58.054Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,114,reviewed,us,us
+1984-04-15T03:17:09.190Z,49.74,78.163,0,5.7,mb,,,,0.9,us,usp00023jz,2014-11-07T00:34:45.973Z,"116 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,90,reviewed,us,us
+1984-03-31T14:30:00.080Z,37.146,-116.084,0,4.1,mb,,,,,us,usp0002357,2016-04-02T18:38:28.235Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,5,reviewed,doe,us
+1984-03-29T05:19:08.200Z,49.937,79.017,0,5.9,mb,,,,0.8,us,usp000232v,2014-11-07T00:34:40.351Z,"97 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,116,reviewed,us,us
+1984-03-07T02:39:06.440Z,50.061,79.003,0,5.7,mb,,,,0.9,us,usp00022fv,2014-11-07T00:34:36.949Z,"83 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,84,reviewed,us,us
+1984-03-01T17:45:00.090Z,37.066,-116.046,0,5.9,mb,,,,,us,usp00022cq,2016-02-02T20:12:59.080Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,75,reviewed,doe,us
+1984-02-19T03:57:03.460Z,49.908,78.807,0,5.8,mb,,,,0.9,us,usp0002239,2014-11-07T00:34:31.137Z,"96 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,95,reviewed,us,us
+1984-02-15T17:00:00.100Z,37.221,-116.181,0,5,mb,,,,,us,usp000220a,2016-04-01T23:23:01.472Z,"60 km SW of Rachel, Nevada",nuclear explosion,,,,41,reviewed,doe,us
+1984-01-31T15:30:00.080Z,37.113,-116.122,0,4.1,mb,,,,,us,usp00021py,2016-04-01T20:12:01.430Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,3,reviewed,doe,us
+1983-12-26T04:29:06.870Z,49.838,78.218,0,5.5,mb,,,,0.9,us,usp00020tm,2014-11-07T00:34:17.293Z,"104 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,74,reviewed,us,us
+1983-12-16T18:30:00.090Z,37.14,-116.072,0,5.1,mb,,,,,us,usp00020hf,2016-04-01T20:30:27.686Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,30,reviewed,doe,us
+1983-12-09T15:59:59.230Z,37.021,-115.975,2,4,ml,,,,0.6,us,usp00020cg,2016-04-01T20:28:53.426Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1983-11-29T02:19:06.560Z,49.764,78.169,0,5.4,mb,,,,0.9,us,usp000204g,2014-11-07T00:34:09.745Z,"113 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,78,reviewed,us,us
+1983-11-20T03:27:04.470Z,50.066,79.036,0,5.5,mb,,,,0.9,us,usp0001zy6,2014-11-07T00:34:08.874Z,"84 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,84,reviewed,us,us
+1983-10-26T01:55:04.880Z,49.921,78.907,0,6.1,mb,,,,0.9,us,usp0001z9k,2014-11-07T00:34:00.918Z,"96 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,121,reviewed,us,us
+1983-10-06T10:00:02.810Z,41.566,88.766,33,5.5,mb,,,,0.9,us,usp0001yu6,2015-06-16T15:42:09.957Z,"157 km SSW of Turpan, China",nuclear explosion,,,,56,reviewed,us,us
+1983-10-06T01:47:06.560Z,49.932,78.843,0,6,mb,,,,0.9,us,usp0001yu0,2014-11-07T00:33:56.050Z,"94 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,100,reviewed,us,us
+1983-09-25T13:09:57.770Z,73.348,54.495,0,5.8,mb,,,,0.9,us,usp0001ynm,2014-11-07T00:33:51.368Z,"Novaya Zemlya, Russia",nuclear explosion,,,,98,reviewed,us,us
+1983-09-24T05:24:57.400Z,46.837,48.231,0,5.2,mb,,,,0.9,us,usp0001ymd,2017-04-26T17:37:02.142Z,"17 km ENE of Aksarayskiy, Russia",nuclear explosion,,,,43,reviewed,us,us
+1983-09-24T05:19:57.120Z,46.796,48.297,0,5.2,mb,,,,1,us,usp0001ymc,2017-04-26T17:37:01.488Z,"21 km E of Aksarayskiy, Russia",nuclear explosion,,,,48,reviewed,us,us
+1983-09-24T05:14:57.180Z,46.78,48.3,0,5.2,mb,,,,1,us,usp0001ymb,2017-04-26T17:37:00.877Z,"22 km E of Aksarayskiy, Russia",nuclear explosion,,,,43,reviewed,us,us
+1983-09-24T05:09:57.560Z,46.86,48.272,0,4.9,mb,,,,0.9,us,usp0001yma,2017-04-26T17:37:00.224Z,"21 km ENE of Aksarayskiy, Russia",nuclear explosion,,,,42,reviewed,us,us
+1983-09-24T05:04:57.200Z,46.817,48.279,0,5,mb,,,,1,us,usp0001ym9,2017-04-26T17:36:59.548Z,"20 km E of Aksarayskiy, Russia",nuclear explosion,,,,46,reviewed,us,us
+1983-09-24T04:59:57.150Z,46.816,48.291,0,5.1,mb,,,,0.9,us,usp0001ym8,2017-04-26T17:36:58.916Z,"21 km E of Aksarayskiy, Russia",nuclear explosion,,,,48,reviewed,us,us
+1983-09-22T15:00:00.120Z,37.106,-116.049,0,4.1,ml,,,,,us,usp0001yjp,2016-04-01T20:28:16.137Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1983-09-21T16:24:59.720Z,37.113,-116.043,2.6,4.2,ml,,,,0.7,us,usp0001yhq,2016-04-02T09:22:51.867Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,1.4,,,reviewed,us,brk
+1983-09-21T15:00:00.600Z,37.2096667,-116.2091667,0.01,3.88,ml,30,259,,0.27,ci,ci19387,2016-04-02T18:51:52.771Z,"59km NE of Beatty, NV",nuclear explosion,99,31.61,0.053,7,reviewed,ci,ci
+1983-09-21T15:00:00.090Z,37.21,-116.209,0,4.1,ml,,,,,us,usp0001yhm,2016-02-03T01:20:17.930Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1983-09-11T06:33:10.420Z,49.878,78.183,0,4.8,mb,,,,0.9,us,usp0001y96,2015-06-16T17:24:51.405Z,"100 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,14,reviewed,us,us
+1983-09-01T14:00:00.080Z,37.273,-116.355,0,5.4,mb,,,,,us,usp0001y3m,2016-04-02T12:39:58.488Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,56,reviewed,doe,us
+1983-08-27T13:59:59.980Z,37.192,-115.992,5,4.1,mb,,,,1,us,usp0001xz6,2016-04-02T19:33:42.425Z,"54 km SSW of Rachel, Nevada",nuclear explosion,,,,1,reviewed,us,us
+1983-08-18T16:09:58.620Z,73.383,54.913,0,5.9,mb,,,,0.9,us,usp0001xry,2014-11-07T00:33:38.940Z,"Novaya Zemlya, Russia",nuclear explosion,,,,94,reviewed,us,us
+1983-08-11T14:00:00.120Z,36.998,-116.003,0,4.4,mb,,,,,us,usp0001xky,2016-04-02T19:33:41.018Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1983-08-04T17:13:58.250Z,-21.835,-138.922,0,5.2,mb,,,,1.1,us,usp0001xba,2015-06-16T17:24:50.477Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,7,reviewed,us,us
+1983-08-03T13:33:00.100Z,37.119,-116.089,0,4.2,mb,,,,,us,usp0001xan,2016-04-02T09:22:44.266Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1983-07-10T04:09:57.170Z,51.344,53.291,0,5.2,mb,,,,0.8,us,usp0001wpq,2017-04-26T17:36:42.209Z,"21 km SSW of Ilek, Russia",nuclear explosion,,,,59,reviewed,us,us
+1983-07-10T04:04:57.180Z,51.34,53.27,0,5.3,mb,,,,0.8,us,usp0001wpp,2017-04-26T17:36:41.535Z,"22 km SSW of Ilek, Russia",nuclear explosion,,,,67,reviewed,us,us
+1983-07-10T03:59:57.110Z,51.308,53.273,0,5.3,mb,,,,0.9,us,usp0001wpn,2017-04-26T17:36:40.889Z,"24 km NE of Aqsay, Kazakhstan",nuclear explosion,,,,69,reviewed,us,us
+1983-06-28T17:45:58.640Z,-21.745,-138.917,0,5.4,mb,,,,1,us,usp0001wew,2015-06-16T17:24:46.612Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,18,reviewed,us,us
+1983-06-24T02:56:11.160Z,49.81,78.107,0,4.7,mb,,,,0.5,us,usp0001wat,2015-06-16T17:24:45.565Z,"109 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,29,reviewed,us,us
+1983-06-12T02:36:43.500Z,49.906,78.981,0,6.1,mb,,,,0.8,us,usp0001w19,2014-11-07T00:33:19.013Z,"99 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,93,reviewed,us,us
+1983-06-09T17:10:00.090Z,37.158,-116.089,0,4.5,mb,,,,,us,usp0001vzq,2016-04-02T07:07:50.881Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,13,reviewed,doe,us
+1983-05-30T03:33:44.560Z,49.74,78.206,0,5.4,mb,,,,0.8,us,usp0001vsx,2014-11-07T00:33:12.808Z,"115 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,90,reviewed,us,us
+1983-05-26T15:00:00.090Z,37.103,-116.006,0,4.4,mb,,,,,us,usp0001vpa,2016-04-02T13:19:25.353Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1983-05-25T17:30:58.240Z,-21.895,-138.918,0,5.9,mb,,,,1,us,usp0001vms,2015-06-16T17:24:44.631Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,27,reviewed,us,us
+1983-05-05T15:20:00.080Z,37.012,-116.089,0,4.5,mb,,,,,us,usp0001v36,2016-04-02T13:21:36.993Z,"60 km E of Beatty, Nevada",nuclear explosion,,,,6,reviewed,doe,us
+1983-04-22T13:53:00.080Z,37.112,-116.022,0,4,mb,,,,,us,usp0001up3,2016-02-03T04:09:24.080Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1983-04-19T18:52:58.430Z,-21.847,-138.906,0,5.6,mb,,,,0.9,us,usp0001uk6,2015-06-16T17:24:43.678Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,22,reviewed,us,us
+1983-04-14T19:05:00.120Z,37.073,-116.046,0,5.7,mb,,,,,us,usp0001ufa,2016-02-02T20:10:21.200Z,"65 km NNW of Indian Springs, Nevada",nuclear explosion,,,,73,reviewed,doe,us
+1983-04-12T03:41:05.600Z,49.86,78.167,0,4.9,mb,,,,0.7,us,usp0001ucd,2015-06-16T17:24:42.701Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,26,reviewed,us,us
+1983-02-17T17:00:00.090Z,37.163,-116.063,0,4,mb,,,,,us,usp0001t4b,2016-02-02T18:50:56.300Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1983-02-11T16:00:00.100Z,37.051,-116.045,0,4.1,ml,,,,,us,usp0001syu,2016-04-02T10:09:15.341Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-12-26T03:35:14.150Z,50.066,79.043,0,5.7,mb,,,,0.9,us,usp0001rrc,2014-11-07T00:32:22.207Z,"84 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,98,reviewed,us,us
+1982-12-25T04:23:05.650Z,49.871,78.095,0,4.8,mb,,,,0.5,us,usp0001rqf,2015-06-16T17:24:41.598Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,12,reviewed,us,us
+1982-12-10T15:20:00.090Z,37.03,-116.072,0,4.6,mb,,,,,us,usp0001rbz,2016-04-02T06:16:44.258Z,"62 km NW of Indian Springs, Nevada",nuclear explosion,,,,7,reviewed,doe,us
+1982-12-05T03:37:12.650Z,49.928,78.869,0,6.1,mb,,,,0.9,us,usp0001r99,2014-11-07T00:32:18.475Z,"95 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,118,reviewed,us,us
+1982-11-12T19:17:00.100Z,37.024,-116.032,0,4.4,mb,,,,,us,usp0001qvc,2016-04-02T06:15:00.584Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,2,reviewed,doe,us
+1982-10-16T06:14:57.370Z,46.743,48.213,0,5.4,mb,,,,1,us,usp0001q9e,2015-06-16T17:24:40.525Z,"16 km ESE of Aksarayskiy, Russia",nuclear explosion,,,,68,reviewed,us,us
+1982-10-16T06:09:57.110Z,46.754,48.27,0,5.2,mb,,,,1,us,usp0001q9d,2015-06-16T17:24:39.632Z,"Russia-Kazakhstan border region",nuclear explosion,,,,60,reviewed,us,us
+1982-10-16T06:04:57.260Z,46.748,48.215,0,5.2,mb,,,,1,us,usp0001q9c,2015-06-16T17:24:38.668Z,"16 km ESE of Aksarayskiy, Russia",nuclear explosion,,,,62,reviewed,us,us
+1982-10-16T05:59:57.190Z,46.73,48.197,0,5.2,mb,,,,1,us,usp0001q9b,2015-06-16T17:24:37.918Z,"15 km ESE of Aksarayskiy, Russia",nuclear explosion,,,,55,reviewed,us,us
+1982-10-11T07:14:58.200Z,73.392,54.559,0,5.6,mb,,,,0.8,us,usp0001q5h,2014-11-07T00:32:01.258Z,"Novaya Zemlya, Russia",nuclear explosion,,,,81,reviewed,us,us
+1982-10-10T04:59:56.780Z,61.553,112.864,0,5.3,mb,,,,0.8,us,usp0001q4u,2015-06-16T17:24:36.196Z,"123 km SSW of Mirny, Russia",nuclear explosion,,,,53,reviewed,us,us
+1982-09-29T13:30:00.100Z,37.091,-116.045,0,4.1,ml,,,,,us,usp0001pwn,2016-04-02T06:15:06.620Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-09-25T17:59:57.100Z,64.313,91.834,0,5.1,mb,,,,0.8,us,usp0001pty,2015-06-16T17:24:30.037Z,"246 km SE of Turukhansk, Russia",nuclear explosion,,,,50,reviewed,us,us
+1982-09-23T17:00:00.080Z,37.175,-116.088,0,4.9,mb,,,,,us,usp0001psg,2016-04-02T03:02:01.611Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,28,reviewed,doe,us
+1982-09-23T16:00:00.090Z,37.212,-116.207,0,4.9,mb,,,,,us,usp0001pse,2016-04-01T20:31:42.578Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,33,reviewed,doe,us
+1982-09-21T02:57:00.870Z,49.854,78.216,0,5.2,mb,,,,0.8,us,usp0001pqy,2015-06-16T17:24:29.044Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,69,reviewed,us,us
+1982-09-04T17:59:58.420Z,69.206,81.647,0,5.2,mb,,,,0.9,us,usp0001pdj,2015-06-16T17:24:28.199Z,"180 km W of Dudinka, Russia",nuclear explosion,,,,81,reviewed,us,us
+1982-09-02T14:00:00.090Z,37.02,-116.016,0,3.3,ml,,,,,us,usp0001pce,2016-04-02T12:40:45.180Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1982-08-31T01:31:00.580Z,49.92,78.812,0,5.4,mb,,,,0.8,us,usp0001pbe,2014-11-07T00:31:47.818Z,"94 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,78,reviewed,us,us
+1982-08-23T02:43:04.250Z,49.747,77.971,0,4.7,mb,,,,0.9,us,usp0001p6x,2015-06-16T17:24:27.166Z,"119 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,27,reviewed,us,us
+1982-08-11T15:00:00.000Z,37.19,-116.048,0,3.3,ml,,,,,us,usp0001nz7,2015-06-16T15:41:26.172Z,"57 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1982-08-05T14:00:00.090Z,37.084,-116.007,0,5.7,mb,,,,,us,usp0001nv7,2016-02-02T21:07:54.080Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,93,reviewed,doe,us
+1982-07-30T21:00:02.280Z,53.813,104.132,33,5.1,mb,,,,0.6,us,usp0001nru,2015-06-16T15:41:22.684Z,"50 km NNE of Osa, Russia",nuclear explosion,,,,47,reviewed,us,us
+1982-07-25T18:01:58.150Z,-21.864,-138.943,0,5.6,mb,,,,0.9,us,usp0001nnq,2015-06-16T17:24:26.237Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,24,reviewed,us,us
+1982-07-04T01:17:14.470Z,49.995,78.856,0,6.1,mb,,,,0.8,us,usp0001n8v,2014-11-07T00:31:33.550Z,"87 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,96,reviewed,us,us
+1982-07-01T17:01:58.810Z,-21.766,-139.05,0,5.2,mb,,,,1.2,us,usp0001n7h,2015-06-16T17:24:25.341Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,10,reviewed,us,us
+1982-06-25T02:03:04.260Z,49.795,78.158,0,4.9,mb,,,,0.7,us,usp0001n46,2015-06-16T17:24:24.414Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,26,reviewed,us,us
+1982-06-24T14:15:00.090Z,37.236,-116.37,0,5.6,mb,,,,,us,usp0001n3x,2016-04-01T23:47:59.529Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,74,reviewed,doe,us
+1982-06-16T14:00:00.850Z,37.114,-116.017,0,4.3,ml,,,,,us,usp0001myz,2016-02-03T02:52:55.400Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1982-05-07T18:17:00.110Z,37.069,-116.045,0,5.7,mb,,,,,us,usp0001m5d,2016-04-02T12:40:41.370Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,76,reviewed,doe,us
+1982-04-25T18:05:00.080Z,37.256,-116.422,0,5.4,mb,,,,,us,usp0001kxs,2016-04-02T15:50:18.458Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,77,reviewed,doe,us
+1982-04-25T03:23:05.420Z,49.889,78.931,0,6.1,mb,,,,0.9,us,usp0001kx8,2014-11-07T00:31:10.921Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,90,reviewed,us,us
+1982-04-17T18:00:00.090Z,37.017,-116.01,0,4.5,mb,,,,,us,usp0001ksx,2016-04-01T23:48:08.732Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1982-03-20T17:02:57.860Z,-21.996,-138.941,0,5.2,ms,,,,0.7,us,usp0001k7q,2015-06-16T17:24:23.406Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,1,reviewed,us,us
+1982-02-19T03:56:11.000Z,49.801,78.116,0,5.4,mb,,,,0.9,us,usp0001jq0,2017-04-26T17:35:23.929Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,65,reviewed,us,us
+1982-02-12T15:25:00.090Z,37.348,-116.316,0,5.6,mb,,,,,us,usp0001jkz,2016-04-02T19:31:37.433Z,"60 km WSW of Rachel, Nevada",nuclear explosion,,,,78,reviewed,doe,us
+1982-02-12T14:55:00.080Z,37.224,-116.463,0,5.4,mb,,,,,us,usp0001jky,2015-06-16T15:41:08.176Z,"43 km NE of Beatty, Nevada",nuclear explosion,,,,58,reviewed,doe,us
+1982-01-28T16:00:00.100Z,37.091,-116.051,0,5.9,mb,,,,,us,usp0001jc9,2016-04-02T16:42:48.000Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,84,reviewed,doe,us
+1981-12-27T03:43:14.140Z,49.909,78.873,0,6.2,mb,,,,1,us,usp0001hpj,2014-11-07T00:30:33.643Z,"97 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,96,reviewed,us,us
+1981-12-22T04:31:02.490Z,49.824,78.197,0,5,mb,,,,0.8,us,usp0001hk3,2015-06-16T17:24:21.517Z,"106 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,30,reviewed,us,us
+1981-12-16T21:05:00.090Z,37.115,-116.123,0,4.4,mb,,,,,us,usp0001hf3,2016-02-03T04:12:15.430Z,"61 km ENE of Beatty, Nevada",nuclear explosion,,,,4,reviewed,doe,us
+1981-12-08T16:46:58.360Z,-21.908,-138.89,0,5.2,mb,,,,0.8,us,usp0001har,2015-06-16T17:24:20.510Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,10,reviewed,us,us
+1981-12-05T16:57:58.360Z,-22.027,-138.598,0,4.6,mb,,,,0.9,us,usp0001h94,2015-06-16T17:24:19.609Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,3,reviewed,us,us
+1981-12-03T15:00:00.100Z,37.148,-116.071,0,4.6,mb,,,,,us,usp0001h86,2016-04-02T16:43:19.470Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,8,reviewed,doe,us
+1981-11-29T03:35:08.690Z,49.86,78.857,0,5.6,mb,,,,0.9,us,usp0001h6d,2014-11-07T00:30:25.675Z,"102 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,85,reviewed,us,us
+1981-11-20T04:57:02.520Z,49.736,78.183,0,4.9,mb,,,,0.8,us,usp0001h20,2015-06-16T17:24:18.676Z,"116 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,41,reviewed,us,us
+1981-11-12T15:00:00.100Z,37.108,-116.049,0,5.3,mb,,,,,us,usp0001gxk,2016-04-02T06:23:02.288Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,68,reviewed,doe,us
+1981-11-11T17:06:58.320Z,-21.917,-138.996,0,4.5,mb,,,,0.9,us,usp0001gx1,2015-06-16T17:24:17.681Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,4,reviewed,us,us
+1981-10-22T13:59:57.310Z,63.789,97.548,0,4.9,mb,,,,0.9,us,usp0001gm5,2015-06-16T17:24:16.733Z,"141 km WSW of Tura, Russia",nuclear explosion,,,,45,reviewed,us,us
+1981-10-18T03:57:02.620Z,49.886,78.898,0,6,mb,,,,0.9,us,usp0001ghn,2014-11-07T00:30:14.553Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,87,reviewed,us,us
+1981-10-01T19:00:00.100Z,37.082,-116.009,0,4.9,mb,,,,,us,usp0001g83,2016-04-02T03:53:20.309Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,36,reviewed,doe,us
+1981-10-01T12:14:56.780Z,73.317,54.812,0,5.9,mb,,,,0.8,us,usp0001g7u,2015-06-16T17:24:15.718Z,"Novaya Zemlya, Russia",nuclear explosion,,,,93,reviewed,us,us
+1981-09-26T05:03:56.900Z,46.768,48.278,0,5.3,mb,,,,0.9,us,usp0001g3s,2017-04-26T17:35:01.471Z,"20 km E of Aksarayskiy, Russia",nuclear explosion,,,,53,reviewed,us,us
+1981-09-26T04:59:57.360Z,46.784,48.248,0,5.2,mb,,,,1,us,usp0001g3r,2017-04-26T17:35:00.740Z,"18 km E of Aksarayskiy, Russia",nuclear explosion,,,,50,reviewed,us,us
+1981-09-24T15:00:00.090Z,37.009,-116.024,0,3.5,ml,,,,,us,usp0001g2q,2016-04-02T16:43:13.929Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1981-09-13T02:17:18.250Z,49.897,78.983,0,6,mb,,,,0.8,us,usp0001fut,2014-11-07T00:30:05.463Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,102,reviewed,us,us
+1981-09-04T15:00:00.100Z,37.058,-116.048,0,3.8,ml,,,,,us,usp0001fp3,2016-04-02T03:05:12.045Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1981-09-02T04:00:04.240Z,60.622,55.589,0,4.5,mb,,,,1,us,usp0001fmh,2015-06-16T17:24:12.822Z,"54 km WNW of Cherdyn’, Russia",nuclear explosion,,,,9,reviewed,us,us
+1981-08-27T14:31:00.090Z,37.16,-116.067,0,4.3,ml,,,,,us,usp0001fhb,2016-04-02T15:50:39.605Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1981-08-14T02:27:12.780Z,49.729,78.069,0,4.9,mb,,,,0.8,us,usp0001f94,2015-06-16T17:24:11.870Z,"119 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,39,reviewed,us,us
+1981-08-05T13:41:00.090Z,37.154,-116.035,0,2.8,ml,,,,,us,usp0001f4c,2016-04-02T03:53:14.377Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1981-08-03T18:32:57.550Z,-22.075,-138.778,0,5.3,mb,,,,1,us,usp0001f3e,2015-06-16T17:24:10.957Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,15,reviewed,us,us
+1981-07-17T02:37:15.520Z,49.788,78.2,0,5.1,mb,,,,0.7,us,usp0001erv,2015-06-16T17:24:10.111Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,54,reviewed,us,us
+1981-07-16T15:00:00.100Z,37.089,-116.019,0,3.3,ml,,,,,us,usp0001erj,2016-04-02T06:18:11.834Z,"65 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1981-07-10T14:00:00.010Z,37.129,-116.034,0,4.2,ml,,,,,us,usp0001ema,2016-02-02T21:31:28.880Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,brk
+1981-07-08T22:22:57.970Z,-22.015,-138.898,0,5.3,mb,,,,0.5,us,usp0001ekc,2015-06-16T17:24:09.030Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,8,reviewed,us,us
+1981-06-30T01:57:12.710Z,49.736,78.082,0,5,mb,,,,0.8,us,usp0001ee9,2015-06-16T17:23:58.110Z,"eastern Kazakhstan",nuclear explosion,,,,53,reviewed,us,us
+1981-06-06T18:00:00.080Z,37.303,-116.326,0,5.5,mb,,,,,us,usp0001e1c,2016-04-02T09:36:10.483Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,61,reviewed,doe,us
+1981-05-29T16:00:00.090Z,37.102,-116.004,0,4.2,mb,,,,,us,usp0001dxs,2016-04-01T20:38:12.577Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,1,reviewed,doe,us
+1981-05-27T03:58:12.180Z,49.952,79.008,0,5.4,mb,,,,0.8,us,usp0001dw2,2014-11-07T00:29:31.261Z,"95 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,79,reviewed,us,us
+1981-05-25T04:59:57.380Z,68.205,53.656,0,5.5,mb,,,,0.9,us,usp0001dv0,2014-11-07T00:29:31.026Z,"62 km NNE of Iskateley, Russia",nuclear explosion,,,,82,reviewed,us,us
+1981-04-30T14:35:00.080Z,37.177,-116.085,0,3.4,ml,,,,,us,usp0001dfb,2016-02-02T23:44:34.850Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,pas
+1981-04-22T01:17:11.400Z,49.901,78.901,0,5.9,mb,,,,0.8,us,usp0001d9r,2014-11-07T00:29:16.980Z,"98 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,102,reviewed,us,us
+1981-03-29T04:03:50.050Z,50.008,79.023,0,5.6,mb,,,,0.8,us,usp0001cxk,2014-11-07T00:29:06.418Z,"89 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,86,reviewed,us,us
+1981-02-25T15:00:00.820Z,37.182,-116.084,0,3,ml,,,,,us,usp0001cdd,2016-04-02T16:40:55.817Z,"59 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1981-02-05T18:00:00.120Z,37.011,-116.032,0,3.2,ml,,,,,us,usp0001c1r,2015-06-16T15:40:05.727Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,doe,us
+1980-12-27T04:09:08.200Z,50.04,79.046,0,5.9,mb,,,,,us,usp0001bg0,2015-06-16T17:23:54.646Z,"87 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-12-26T04:07:07.500Z,50.001,77.973,0,4.5,mb,,,,,us,usp0001bfg,2015-06-16T17:23:53.725Z,"93 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-12-17T15:10:00.100Z,37.325,-116.312,0,5.1,mb,,,,,us,usp0001baw,2016-04-02T04:32:20.766Z,"60 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-12-14T03:47:06.600Z,49.932,79.005,0,5.9,mb,,,,,us,usp0001b98,2015-06-16T17:23:52.014Z,"97 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-12-10T06:59:57.300Z,61.686,66.999,0,4.6,mb,,,,,us,usp0001b7j,2015-06-16T17:23:51.227Z,"98 km ESE of Nyagan, Russia",nuclear explosion,,,,,reviewed,us,us
+1980-12-03T17:32:58.200Z,-21.938,-138.961,0,5.6,mb,,,,,us,usp0001b53,2015-06-16T17:23:50.446Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1980-11-14T16:50:00.100Z,37.111,-116.019,0,4.1,mb,,,,,us,usp0001atn,2016-04-02T11:02:36.027Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-11-01T12:59:57.800Z,60.822,97.568,0,5.2,mb,,,,,us,usp0001amk,2015-06-16T17:23:48.862Z,"114 km SSE of Baykit, Russia",nuclear explosion,,,,,reviewed,us,us
+1980-10-31T18:00:00.100Z,37.211,-116.205,0,4.7,mb,,,,,us,usp0001ama,2016-02-02T21:37:21.710Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-10-24T19:15:00.100Z,37.075,-115.999,0,4.4,mb,,,,,us,usp0001ae9,2016-02-03T02:59:18.490Z,"Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-10-12T03:34:14.100Z,49.958,79.085,0,5.9,mb,,,,,us,usp0001a76,2015-06-16T17:23:46.214Z,"96 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-10-11T07:09:57.000Z,73.353,54.997,0,5.8,mb,,,,,us,usp0001a6r,2015-06-16T17:23:45.326Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1980-10-08T05:59:57.100Z,46.708,48.215,0,5.2,mb,,,,,us,usp0001a4h,2017-04-26T17:34:09.748Z,"18 km ESE of Aksarayskiy, Russia",nuclear explosion,,,,,reviewed,us,us
+1980-09-25T15:26:30.100Z,37.116,-116.065,0,3.7,ml,,,,,us,usp00019z7,2016-02-03T01:35:42.900Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,gs
+1980-09-25T14:45:00.100Z,37.056,-116.048,0,4.6,mb,,,,,us,usp00019z5,2016-04-02T04:21:44.746Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-09-25T06:21:10.600Z,49.752,78.027,0,4.7,mb,,,,,us,usp00019yz,2015-06-16T15:40:05.082Z,"117 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-09-14T02:42:39.300Z,49.976,78.889,0,6.2,mb,,,,,us,usp00019td,2015-06-16T17:23:38.294Z,"eastern Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-07-31T18:19:00.100Z,37.013,-116.023,0,4.3,mb,,,,,us,usp000196n,2016-04-02T01:15:31.738Z,"58 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-07-31T03:32:57.700Z,49.787,78.139,0,5.3,mb,,,,,us,usp0001969,2017-04-26T17:34:04.005Z,"111 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-07-25T19:05:00.100Z,37.256,-116.477,0,5.5,mb,,,,,us,usp0001934,2016-02-03T00:16:28.180Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-07-19T23:46:58.200Z,-21.886,-139.019,0,5.9,mb,,,,,us,usp00018zb,2015-06-16T15:40:04.422Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1980-06-29T02:32:57.700Z,49.92,78.849,0,5.7,mb,,,,,us,usp00018hq,2015-06-16T17:23:35.118Z,"95 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-06-24T15:10:00.100Z,37.023,-116.034,0,4.4,mb,,,,,us,usp00018ey,2016-04-02T07:35:49.210Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-06-16T18:26:57.800Z,-22.023,-138.873,0,5.5,mb,,,,,us,usp0001898,2015-06-16T15:40:03.767Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1980-06-12T17:15:00.100Z,37.282,-116.454,0,5.6,mb,,,,,us,usp000185x,2016-04-01T21:51:42.934Z,"49 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-06-12T03:26:57.500Z,49.944,79.038,0,5.6,mb,,,,,us,usp000185c,2015-06-16T17:23:32.685Z,"96 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-05-22T13:00:00.100Z,37.003,-116.031,0,3.8,ml,,,,,us,usp00017cg,2016-04-01T22:01:10.978Z,"57 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,brk
+1980-05-22T03:56:57.600Z,49.729,78.1,0,5.5,mb,,,,,us,usp00017cc,2015-06-16T17:23:31.046Z,"118 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-05-02T18:46:30.100Z,37.056,-116.019,0,4.4,mb,,,,,us,usp000170r,2016-04-02T14:09:03.890Z,"62 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-04-26T17:00:00.100Z,37.248,-116.422,0,5.4,mb,,,,,us,usp00016wg,2016-04-01T21:53:25.182Z,"48 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-04-25T03:56:57.400Z,49.947,78.799,0,5.5,mb,,,,,us,usp00016vg,2015-06-16T17:23:28.286Z,"91 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-04-10T04:06:57.600Z,49.792,78.128,0,5,mb,,,,,us,usp00016j2,2015-06-16T17:23:27.469Z,"111 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-04-04T05:32:57.300Z,49.985,77.837,0,4.9,mb,,,,,us,usp00016ej,2015-06-16T15:40:03.087Z,"99 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1980-04-03T14:00:00.100Z,37.15,-116.082,0,4.7,mb,,,,,us,usp00016e1,2016-04-02T10:54:10.018Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-04-01T19:30:58.600Z,-21.829,-138.839,0,5.1,mb,,,,,us,usp00016d5,2015-06-16T15:40:02.415Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1980-03-23T19:36:58.400Z,-21.878,-139.02,0,5.7,mb,,,,,us,usp0001660,2015-06-16T15:40:01.792Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1980-03-08T15:35:00.100Z,37.18,-116.083,0,3.9,mb,,,,,us,usp00015w9,2016-04-01T21:56:13.852Z,"59 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1980-02-28T15:00:00.100Z,37.127,-116.089,0,4.4,mb,,,,,us,usp00015rj,2016-04-02T04:24:14.172Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,b,us
+1979-12-23T04:56:57.600Z,49.964,78.827,0,6.1,mb,,,,,us,usp00014nn,2015-06-16T17:23:23.758Z,"90 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-12-21T04:41:56.800Z,49.794,78.347,0,4.7,mb,,,,,us,usp00014mh,2015-06-16T15:40:01.168Z,"107 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-12-14T18:00:00.100Z,37.137,-116.063,0,3.6,ml,,,,,us,usp00014h6,2016-04-02T07:34:22.096Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,brk
+1979-12-02T04:36:57.500Z,49.894,78.843,0,6,mb,,,,,us,usp00014a5,2015-06-16T17:23:21.966Z,"98 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-11-30T04:52:57.800Z,49.813,78.198,0,4.5,mb,,,,,us,usp000149f,2015-06-16T15:40:00.551Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-11-29T15:00:00.100Z,36.994,-116.024,0,3.8,mb,,,,,us,usp0001490,2016-04-01T21:49:14.309Z,"56 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-10-28T03:16:56.900Z,49.967,79.06,0,6,mb,,,,,us,usp00013ra,2015-06-16T17:23:21.175Z,"95 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-10-24T05:59:56.600Z,47.806,48.158,0,5.8,mb,,,,,us,usp00013p9,2015-06-16T17:23:20.327Z,"60 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-10-18T07:09:58.300Z,73.338,54.807,0,5.8,mb,,,,,us,usp00013jp,2015-06-16T17:23:19.270Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-10-18T04:16:57.600Z,49.783,78.118,0,5.2,mb,,,,,us,usp00013jg,2017-04-26T17:33:10.446Z,"112 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-10-07T20:59:56.900Z,61.854,113.09,0,4.9,mb,,,,,us,usp000139p,2017-04-26T17:33:07.761Z,"88 km SSW of Mirny, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-10-04T15:59:57.900Z,60.677,71.501,0,5.4,mb,,,,,us,usp000138c,2015-06-16T17:23:18.262Z,"68 km N of Salym, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-09-27T04:12:57.400Z,49.743,78.051,0,4.5,mb,,,,,us,usp0001356,2015-06-16T15:39:57.943Z,"118 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-09-26T15:00:00.100Z,37.229,-116.364,0,5.6,mb,,,,,us,usp000134x,2016-04-02T10:43:36.068Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-09-24T03:29:58.300Z,73.369,54.708,0,5.7,mb,,,,,us,usp000133a,2015-06-16T17:23:16.279Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-09-08T17:02:00.100Z,37.154,-116.038,0,3.7,ml,,,,,us,usp00012ur,2016-04-02T13:51:38.308Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,brk
+1979-09-06T17:59:57.700Z,64.097,99.565,0,4.9,mb,,,,,us,usp00012tt,2015-06-16T15:39:57.350Z,"37 km WSW of Tura, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-09-06T15:00:00.100Z,37.088,-116.053,0,5.8,mb,,,,,us,usp00012tq,2016-04-02T17:03:15.638Z,"65 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-08-29T15:08:00.200Z,37.121,-116.066,0,4.7,mb,,,,,us,usp00012pw,2016-04-02T04:10:34.274Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-08-18T02:51:57.300Z,49.971,79.01,0,6.1,mb,,,,,us,usp00012ge,2015-06-16T17:23:06.646Z,"eastern Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-08-12T17:59:57.400Z,61.872,122.185,0,4.9,mb,,,,,us,usp00012cn,2015-06-16T15:39:56.728Z,"192 km NNE of Olyokminsk, Russia",nuclear explosion,,,,,reviewed,us,us
+1979-08-08T15:00:00.100Z,37.015,-116.008,0,4.8,mb,,,,,us,usp000129x,2016-04-02T00:55:34.890Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-08-04T03:56:57.200Z,49.901,78.959,0,6.1,mb,,,,,us,usp000127h,2015-06-16T17:23:04.783Z,"99 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-08-03T15:07:30.200Z,37.083,-116.07,0,4.5,mb,,,,,us,usp000127c,2016-04-02T17:06:17.339Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-07-28T19:55:59.200Z,-21.707,-138.902,0,4.4,mb,,,,,us,usp0001240,2015-06-16T15:39:56.110Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1979-07-25T17:56:58.300Z,-21.892,-138.993,0,6,mb,,,,,us,usp0001226,2015-06-16T15:39:55.496Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1979-07-18T03:17:02.500Z,49.914,77.813,0,5.1,mb,,,,,us,usp00011x0,2015-06-16T15:39:54.894Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-07-14T04:59:55.100Z,47.813,48.097,0,5.6,mb,,,,,us,usp00011uw,2015-06-16T15:39:54.272Z,"64 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-07-07T03:46:57.400Z,50.053,79.065,0,5.8,mb,,,,,us,usp00011rb,2015-06-16T17:23:02.814Z,"86 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-06-29T18:55:57.900Z,-21.996,-138.88,0,5.3,mb,,,,,us,usp00011me,2015-06-16T15:39:53.615Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1979-06-28T14:44:00.200Z,37.142,-116.088,0,5,mb,,,,,us,usp00011kn,2016-04-02T07:25:38.410Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,e,us
+1979-06-23T02:56:57.600Z,49.918,78.915,0,6.3,mb,,,,,us,usp00011g5,2015-06-16T17:23:00.902Z,"96 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-06-20T15:00:13.500Z,37.108,-116.015,0,4,mb,,,,,us,usp00011et,2016-04-02T20:07:25.948Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,e,us
+1979-06-18T23:26:58.400Z,-22.041,-138.627,0,5,mb,,,,,us,usp00011dw,2015-06-16T15:39:53.014Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1979-06-11T14:00:00.200Z,37.29,-116.455,0,5.5,mb,,,,,us,usp000117a,2016-02-01T23:08:45.420Z,"50 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,e,us
+1979-05-31T05:54:57.500Z,49.855,78.193,0,5.2,mb,,,,,us,usp000110z,2015-06-16T15:39:52.400Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-05-11T15:59:59.700Z,36.988,-116.012,2,4.3,ml,,,,,us,usp00010jr,2016-04-02T13:54:58.373Z,"55 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1979-05-06T03:16:57.300Z,49.75,78.091,0,5.2,mb,,,,,us,usp00010fm,2017-04-26T17:32:43.874Z,"116 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-03-24T16:27:58.800Z,-21.823,-139.066,0,4.9,mb,,,,,us,usp0000zn7,2015-06-16T15:39:50.511Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1979-03-14T18:30:00.100Z,37.028,-116.04,0,4.3,mb,,,,,us,usp0000zc9,2016-04-02T16:59:17.929Z,"60 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-02-16T04:03:57.900Z,49.971,77.746,0,5.4,mb,,,,,us,usp0000yvp,2015-06-16T17:22:56.773Z,"104 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-02-15T18:05:00.200Z,37.152,-116.072,0,4.8,mb,,,,,us,usp0000yve,2016-04-02T10:47:40.558Z,"61 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-02-08T20:00:00.100Z,37.102,-116.055,0,5.5,mb,,,,,us,usp0000yrh,2016-04-02T07:22:56.148Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-02-01T04:12:57.700Z,50.111,78.881,0,5.4,mb,,,,,us,usp0000yp1,2015-06-16T17:22:53.962Z,"75 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1979-01-24T18:00:00.100Z,37.104,-116.012,0,4.5,mb,,,,,us,usp0000yjw,2016-04-02T00:56:47.158Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1979-01-17T07:59:55.700Z,47.883,48.128,0,6,mb,,,,,us,usp0000yfe,2015-06-16T15:39:49.879Z,"60 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-12-20T04:32:57.300Z,49.885,78.172,0,4.7,mb,,,,,us,usp0000y07,2015-06-16T15:39:49.262Z,"100 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-12-19T16:57:00.100Z,-21.732,-139.046,0,4.9,mb,,,,,us,usp0000y02,2015-06-16T15:39:48.624Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1978-12-18T07:59:56.300Z,47.787,48.192,0,6,mb,,,,,us,usp0000xz3,2015-06-16T17:22:51.887Z,"59 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-12-16T15:30:00.200Z,37.273,-116.41,0,5.5,mb,,,,,us,usp0000xya,2016-02-01T21:54:48.090Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-12-14T04:42:57.500Z,49.897,78.199,0,4.8,mb,,,,,us,usp0000xx9,2015-06-16T15:39:48.031Z,"98 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-12-01T17:07:29.800Z,37.028,-116.035,2,3.8,ml,,,,,us,usp0000xqe,2016-02-01T22:11:14.210Z,"60 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1978-11-30T17:31:58.400Z,-21.903,-138.975,0,5.9,mb,,,,,us,usp0000xq2,2015-06-16T15:39:46.784Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1978-11-29T04:33:02.900Z,49.956,78.765,0,6,mb,,,,,us,usp0000xnu,2015-06-16T17:22:49.999Z,"90 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-11-29T04:32:58.000Z,49.861,78.054,0,5.3,mb,,,,,us,usp0000xnt,2015-06-16T17:22:48.838Z,"105 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-11-18T19:00:00.000Z,37.126,-116.084,0,5.1,mb,,,,,us,usp0000xgv,2016-02-01T21:54:22.780Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-11-04T05:05:57.500Z,50.046,78.983,0,5.6,mb,,,,,us,usp0000x8r,2015-06-16T17:22:45.942Z,"84 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-11-02T15:25:00.200Z,37.288,-116.297,0,4.2,mb,,,,,us,usp0000x82,2016-02-01T22:45:53.160Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-10-31T04:16:57.500Z,49.751,78.146,0,5.2,mb,,,,,us,usp0000x6z,2015-06-16T17:22:41.847Z,"115 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-10-17T13:59:57.800Z,63.143,63.392,0,5.5,mb,,,,,us,usp0000x1a,2015-06-16T15:39:46.174Z,"51 km W of Igrim, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-10-17T04:59:56.500Z,47.818,48.114,0,5.8,mb,,,,,us,usp0000x17,2015-06-16T15:39:45.581Z,"63 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-10-15T05:36:57.000Z,49.697,78.292,0,5.1,mb,,,,,us,usp0000x0h,2015-06-16T15:39:44.966Z,"109 km NW of Qara?yl, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-10-14T01:00:02.700Z,41.488,88.637,33,4.9,mb,,,,,us,usp0000wzz,2015-06-16T15:39:44.367Z,"168 km SSW of Turpan, China",nuclear explosion,,,,,reviewed,us,us
+1978-10-07T23:59:56.800Z,61.523,112.883,0,5.2,mb,,,,,us,usp0000wx1,2015-06-16T15:39:43.735Z,"126 km SSW of Mirny, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-09-27T17:20:00.000Z,37.07,-116.019,0,5.7,mb,,,,,us,usp0000wry,2016-02-01T22:45:07.130Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-09-27T17:00:00.000Z,37.08,-116.05,0,5,mb,,,,,us,usp0000wrw,2016-02-01T21:53:22.830Z,"65 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-09-27T16:30:00.970Z,37.1303333,-116.0513333,0.01,3.34,ml,14,256,1.744,0.22,ci,ci3313544,2016-02-01T22:10:10.830Z,"67km ENE of Beatty, NV",nuclear explosion,3.96,31.61,0.201,2,reviewed,ci,ci
+1978-09-27T02:04:58.200Z,73.38,54.669,0,5.6,mb,,,,,us,usp0000wrq,2015-06-16T17:22:37.615Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-09-21T14:59:57.500Z,66.541,86.252,0,5.2,mb,,,,,us,usp0000wnn,2015-06-16T17:22:36.279Z,"102 km WSW of Svetlogorsk, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-09-15T02:36:57.300Z,49.898,78.925,0,6,mb,,,,,us,usp0000wja,2015-06-16T15:39:15.485Z,"99 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-09-13T15:15:00.200Z,37.209,-116.211,0,4.6,mb,,,,,us,usp0000whg,2016-02-01T22:09:53.770Z,"59 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-08-31T14:00:00.200Z,37.275,-116.357,0,5.6,mb,,,,,us,usp0000w9y,2016-02-01T21:18:28.880Z,"54 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-08-29T02:37:06.500Z,50.008,78.996,0,5.9,mb,,,,,us,usp0000w8w,2015-06-16T17:22:32.704Z,"89 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-08-29T02:36:58.200Z,49.839,78.008,0,5,mb,,,,,us,usp0000w8v,2015-06-16T17:22:30.031Z,"108 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-08-24T17:59:57.000Z,65.918,112.541,0,5.1,mb,,,,,us,usp0000w6u,2015-06-16T17:22:27.272Z,"48 km E of Aykhal, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-08-10T07:59:57.700Z,73.336,54.792,0,5.9,mb,,,,,us,usp0000w02,2015-06-16T17:22:23.007Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-08-09T17:59:58.200Z,63.706,125.321,0,5.6,mb,,,,,us,usp0000vzt,2015-06-16T17:22:21.959Z,"108 km WSW of Sangar, Russia",nuclear explosion,,,,,reviewed,us,us
+1978-07-28T02:46:57.600Z,49.744,78.168,0,5.7,mb,,,,,us,usp0000vu1,2015-06-16T17:22:20.808Z,"115 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-07-12T17:00:00.100Z,37.079,-116.044,0,5.5,mb,,,,,us,usp0000vhz,2016-02-01T23:17:46.560Z,"65 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-07-07T13:59:59.300Z,37.1,-116.01,2,4,mb,,,,,us,usp0000vfb,2016-02-01T21:16:34.380Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,us,us
+1978-07-05T02:46:57.300Z,49.839,78.906,0,5.8,mb,,,,,us,usp0000veh,2015-06-16T17:22:18.379Z,"102 km NNW of Qara?yl, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-06-11T02:56:57.700Z,49.879,78.838,0,5.9,mb,,,,,us,usp0000uzk,2015-06-16T17:22:09.663Z,"99 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-06-01T17:00:00.000Z,37.034,-116.037,2,3.4,ml,,,,,us,usp0000uvf,2016-02-01T22:59:41.940Z,"61 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,gs
+1978-05-29T04:56:57.400Z,49.877,78.195,0,4.7,mb,,,,,us,usp0000utf,2015-06-16T15:39:13.429Z,"100 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-04-22T03:06:57.600Z,49.72,78.175,0,5.3,mb,,,,,us,usp0000u76,2015-06-16T17:22:08.602Z,"116 km NW of Qara?yl, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-04-11T17:45:00.100Z,37.233,-116.367,0,5.5,mb,,,,,us,usp0000u1c,2016-02-01T21:15:01.470Z,"50 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-04-11T15:30:00.200Z,37.3,-116.327,0,5.3,mb,,,,,us,usp0000u18,2016-04-02T10:39:11.480Z,"57 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-03-26T03:56:57.600Z,49.734,78.074,0,5.5,mb,,,,,us,usp0000tqx,2015-06-16T17:22:05.528Z,"118 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-03-23T16:30:00.200Z,37.102,-116.051,0,5.6,mb,,,,,us,usp0000tku,2016-02-01T22:06:11.940Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-03-22T17:29:57.200Z,-22.102,-138.561,0,4.8,mb,,,,,us,usp0000thw,2015-06-16T15:39:12.738Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1978-03-19T03:46:57.400Z,49.972,77.755,0,5.2,mb,,,,,us,usp0000tfh,2015-06-16T17:22:03.575Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1978-03-16T14:59:59.600Z,37.1,-116.057,2,3.9,mb,,,,,us,usp0000tea,2016-02-01T22:06:04.410Z,"66 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1978-02-23T17:00:00.200Z,37.125,-116.064,0,5.6,mb,,,,,us,usp0000t41,2016-04-02T20:11:47.812Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1978-02-13T21:52:59.600Z,37.134,-115.997,2,3.8,mb,,,,,us,usp0000syq,2016-02-01T22:43:17.150Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,us,us
+1977-12-26T04:02:57.700Z,49.881,78.141,0,4.9,mb,,,,,us,usp0000s81,2015-06-16T15:39:10.695Z,"101 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-12-14T15:30:00.200Z,37.136,-116.086,0,5.7,mb,,,,,us,usp0000s2d,2016-02-01T20:01:27.400Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-12-14T15:00:00.000Z,37.033,-115.956,5,3.4,ml,,,,,us,usp0000s2c,2016-02-01T20:01:26.910Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,gs
+1977-11-30T04:06:57.500Z,49.957,78.931,0,5.9,mb,,,,,us,usp0000rve,2015-06-16T17:22:00.168Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-11-24T16:59:58.500Z,-21.894,-138.959,0,6,mb,,,,,us,usp0000rqy,2015-06-16T15:39:09.276Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1977-11-17T19:30:00.100Z,37.021,-116.025,0,4.7,mb,,,,,us,usp0000rju,2016-02-01T19:55:25.730Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-11-09T22:00:00.100Z,37.072,-116.05,0,5.7,mb,,,,,us,usp0000rem,2016-02-01T19:38:10.440Z,"65 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-11-01T18:06:00.100Z,37.188,-116.213,0,4.7,mb,,,,,us,usp0000rb6,2016-02-01T20:16:33.600Z,"57 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-10-29T03:07:02.900Z,50.059,78.907,0,5.6,mb,,,,,us,usp0000r99,2015-06-16T17:21:55.776Z,"81 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-10-29T03:06:57.700Z,49.841,78.174,0,5.5,mb,,,,,us,usp0000r98,2015-06-16T17:21:54.655Z,"105 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-10-26T14:15:00.100Z,37.008,-116.017,0,4.4,mb,,,,,us,usp0000r7v,2016-02-01T20:11:11.560Z,"57 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-10-09T11:00:00.300Z,73.626,53.158,0,4.5,mb,,,,,us,usp0000qz3,2015-06-16T15:39:08.457Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-09-30T06:59:55.600Z,47.8,48.145,0,5.1,mb,,,,,us,usp0000qut,2015-06-16T17:21:52.343Z,"62 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-09-27T14:00:00.200Z,37.151,-116.068,0,4.8,mb,,,,,us,usp0000qtu,2016-04-02T00:53:35.380Z,"61 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-09-15T14:36:30.100Z,37.033,-116.043,0,4.5,mb,,,,,us,usp0000qnn,2016-02-01T20:10:33.810Z,"61 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-09-10T16:00:03.300Z,57.294,106.24,33,4.8,mb,,,,,us,usp0000qk0,2015-06-16T15:39:07.752Z,"51 km W of Markovo, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-09-05T03:02:57.800Z,50.092,78.961,0,5.9,mb,,,,,us,usp0000qgv,2017-04-26T17:31:00.898Z,"79 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-09-01T02:59:57.500Z,73.376,54.581,0,5.7,mb,,,,,us,usp0000qem,2015-06-16T15:39:06.104Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-08-20T21:59:58.700Z,64.223,99.577,0,5,mb,,,,,us,usp0000q7u,2015-06-16T17:21:48.944Z,"31 km WSW of Tura, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-08-19T17:55:00.100Z,37.111,-116.055,0,5.6,mb,,,,,us,usp0000q6u,2016-02-01T19:36:49.120Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-08-19T17:32:00.100Z,37.038,-116.01,5,3.5,ml,,,,,us,usp0000q6s,2016-02-01T20:04:35.460Z,"60 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1977-08-17T04:26:57.700Z,49.814,78.151,0,5,mb,,,,,us,usp0000q4w,2015-06-16T15:39:04.825Z,"108 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-08-16T15:49:00.200Z,37.158,-116.053,5,4,ml,,,,,us,usp0000q4m,2016-02-01T19:59:19.220Z,"60 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1977-08-16T14:41:00.400Z,37.152,-116.06,5,3.5,ml,,,,,us,usp0000q4j,2016-02-01T19:53:37.990Z,"61 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1977-08-10T21:59:58.800Z,50.923,110.761,2,5.2,mb,,,,,us,usp0000q1u,2015-06-16T15:39:02.872Z,"53 km SSE of Khilok, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-08-04T16:40:00.100Z,37.087,-116.007,0,5.7,ms,,,,,us,usp0000pzf,2016-02-01T19:53:26.720Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-07-30T01:56:58.000Z,49.777,78.163,0,5.3,mb,,,,,us,usp0000pxh,2017-04-26T17:30:54.331Z,"112 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-07-28T14:07:00.200Z,37.114,-116.078,5,3.7,ml,,,,,us,usp0000pww,2016-02-01T20:10:05.010Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1977-07-26T16:59:57.600Z,69.532,90.583,0,4.9,mb,,,,,us,usp0000pw3,2015-06-16T17:21:45.409Z,"85 km E of Talnakh, Russia",nuclear explosion,,,,,reviewed,us,us
+1977-06-29T03:06:58.000Z,50.034,78.927,0,5.3,mb,,,,,us,usp0000phq,2017-04-26T17:30:51.114Z,"84 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-05-29T02:56:57.800Z,49.944,78.846,0,5.6,mb,,,,,us,usp0000p2n,2015-06-16T17:21:44.297Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-05-25T17:00:00.100Z,37.094,-116.045,0,5.3,mb,,,,,us,usp0000p15,2016-02-01T19:51:11.740Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-04-27T15:00:00.100Z,37.095,-116.028,0,5.4,mb,,,,,us,usp0000nnj,2016-02-01T19:35:57.050Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-04-25T04:06:57.800Z,49.837,78.159,0,5.1,mb,,,,,us,usp0000nme,2015-06-16T15:39:00.161Z,"105 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-04-05T15:00:00.200Z,37.12,-116.062,0,5.6,mb,,,,,us,usp0000n99,2016-02-01T19:40:14.640Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1977-03-29T03:56:57.700Z,49.79,78.149,0,5.4,mb,,,,,us,usp0000n5x,2017-04-26T17:30:37.587Z,"111 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1977-03-19T23:00:58.200Z,-21.932,-138.958,0,5.9,mb,,,,,us,usp0000n05,2015-06-16T15:38:59.474Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1977-03-08T14:24:01.900Z,37.238,-116.255,5,3.2,ml,,,,,us,usp0000muq,2016-02-01T20:18:41.510Z,"57 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,gs
+1977-02-19T23:29:57.900Z,-22.1,-138.762,0,5.3,mb,,,,,us,usp0000mmy,2015-06-16T15:38:57.800Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1977-02-16T17:53:00.200Z,36.999,-116.036,5,4.8,mb,,,,,us,usp0000mkc,2016-02-01T19:51:48.570Z,"57 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1976-12-30T03:56:57.500Z,49.8,78.136,0,5.1,mb,,,,,us,usp0000kzx,2015-06-16T17:21:36.376Z,"110 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-12-28T18:00:00.100Z,37.1,-116.036,0,5.5,mb,,,,,us,usp0000kz8,2016-01-29T21:13:11.440Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-12-21T15:09:00.200Z,37.124,-116.067,0,4.2,ml,,,,,us,usp0000kvw,2015-06-16T17:21:26.623Z,"Nevada",nuclear explosion,,,,,reviewed,a,brk
+1976-12-08T14:49:30.100Z,37.079,-116.002,0,4.9,mb,,,,,us,usp0000kp7,2016-01-29T21:20:54.660Z,"63 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-12-07T04:56:57.400Z,49.884,78.905,0,5.9,mb,,,,,us,usp0000knj,2017-04-26T17:30:20.444Z,"100 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-11-23T05:02:57.400Z,49.991,79.005,0,5.9,mb,,,,,us,usp0000kej,2017-04-26T17:30:17.127Z,"91 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-11-17T06:00:17.600Z,40.759,89.63,33,4.7,mb,,,,,us,usp0000kc7,2015-06-16T15:38:55.984Z,"245 km S of Turpan, China",nuclear explosion,,,,,reviewed,us,us
+1976-11-05T03:59:56.700Z,61.528,112.712,0,5.3,mb,,,,,us,usp0000k6x,2015-06-16T17:21:21.360Z,"129 km SSW of Mirny, Russia",nuclear explosion,,,,,reviewed,us,us
+1976-10-20T07:59:57.700Z,73.42,54.567,0,5.1,mb,,,,,us,usp0000jyk,2015-06-16T15:38:54.985Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1976-10-17T05:00:03.700Z,41.649,88.161,33,4.9,mb,,,,,us,usp0000jwn,2015-06-16T15:38:54.041Z,"144 km ESE of Sishilichengzi, China",nuclear explosion,,,,,reviewed,us,us
+1976-09-29T02:59:57.400Z,73.404,54.817,0,5.8,mb,,,,,us,usp0000jp2,2015-06-16T17:21:20.233Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1976-08-28T02:56:57.500Z,49.969,79.001,0,5.8,mb,,,,,us,usp0000j2p,2015-06-16T17:21:19.016Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-08-26T15:30:01.090Z,37.125,-116.082,0.01,4.82,ml,15,264,1.719,1.92,ci,ci12328583,2016-01-29T21:53:11.440Z,"64km ENE of Beatty, NV",nuclear explosion,99,31.61,0.221,15,reviewed,ci,ci
+1976-08-26T14:30:00.200Z,37.125,-116.082,0,5.3,mb,,,,,us,usp0000j27,2015-06-16T17:21:17.747Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-07-29T04:59:57.700Z,47.782,48.12,0,5.9,mb,,,,,us,usp0000hkz,2015-06-16T17:21:16.697Z,"64 km WSW of Shalkar, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-07-23T02:32:57.900Z,49.791,78.051,0,5.1,mb,,,,,us,usp0000hg1,2015-06-16T15:38:53.048Z,"112 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-07-11T00:29:54.800Z,-22.673,-138.607,0,5,mb,,,,,us,usp0000h8x,2015-06-16T17:21:15.605Z,"Tuamotu Archipelago, French Polynesia region",nuclear explosion,,,,,reviewed,us,us
+1976-07-04T02:56:57.700Z,49.915,78.952,0,5.8,mb,,,,,us,usp0000h6a,2017-04-26T17:29:44.138Z,"98 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-06-09T03:02:57.600Z,50.023,79.08,0,5.4,mb,,,,,us,usp0000gsy,2017-04-26T17:29:39.007Z,"90 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-05-19T02:56:57.900Z,49.856,78.007,0,5,mb,,,,,us,usp0000gdu,2015-06-16T17:21:13.257Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-05-12T19:50:00.200Z,37.209,-116.212,0,4.9,mb,,,,,us,usp0000gag,2016-01-29T21:05:29.270Z,"58 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-04-21T05:02:57.400Z,49.932,78.824,0,5.3,mb,,,,,us,usp0000fzk,2017-04-26T17:29:21.311Z,"93 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-04-21T04:57:57.600Z,49.818,78.198,0,5.1,mb,,,,,us,usp0000fzj,2015-06-16T15:38:14.626Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-03-17T14:45:00.100Z,37.107,-116.052,0,5.8,mb,,,,,us,usp0000fg9,2016-04-01T20:56:29.057Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-03-17T14:15:00.100Z,37.256,-116.312,0,6.1,mb,,,,,us,usp0000fg8,2016-04-02T13:04:13.815Z,"55 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-03-14T12:30:00.200Z,37.306,-116.471,0,6.3,mb,,,,,us,usp0000feq,2016-04-02T19:18:20.076Z,"51 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-03-09T14:00:00.100Z,37.31,-116.364,0,6,mb,,,,,us,usp0000fch,2016-04-01T20:57:29.667Z,"56 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-02-26T14:49:59.900Z,37.014,-115.971,5,4.2,mb,,,,,us,usp0000f7u,2016-01-29T21:28:49.580Z,"56 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1976-02-14T11:30:00.200Z,37.243,-116.42,0,6,mb,,,,,us,usp0000f1z,2016-04-02T06:37:35.196Z,"47 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-02-12T14:45:00.200Z,37.271,-116.488,0,6.3,mb,,,,,us,usp0000f1b,2017-04-26T17:29:09.042Z,"46 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-02-04T14:40:00.200Z,37.107,-116.037,0,5.7,mb,,,,,us,usp0000exd,2016-04-02T09:53:44.923Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-02-04T14:20:00.100Z,37.069,-116.03,0,5.8,mb,,,,,us,usp0000exc,2016-01-29T21:37:06.630Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1976-01-15T04:46:57.600Z,49.87,78.246,0,5.2,mb,,,,,us,usp0000ef1,2015-06-16T17:20:40.144Z,"100 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1976-01-03T19:15:00.200Z,37.297,-116.333,0,6.2,mb,,,,,us,usp0000e9f,2016-01-29T21:37:06.080Z,"57 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-12-25T05:16:57.200Z,50.043,78.899,0,5.8,mb,,,,,us,usp0000e1w,2017-04-26T17:28:59.670Z,"83 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-12-13T04:56:57.300Z,49.798,78.196,0,5.1,mb,,,,,us,usp0000dwm,2015-06-16T17:20:36.786Z,"109 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-11-26T15:30:00.200Z,37.117,-116.019,0,5,mb,,,,,us,usp0000dr0,2016-01-29T21:45:23.610Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-11-20T15:00:00.100Z,37.225,-116.368,0,6,mb,,,,,us,usp0000dnt,2016-01-29T21:37:05.480Z,"49 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-11-18T15:30:00.300Z,36.991,-116.032,5,3.8,ml,,,,,us,usp0000dn2,2016-01-29T21:53:09.440Z,"56 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,brk
+1975-10-29T04:46:57.500Z,49.984,78.975,0,5.8,mb,,,,,us,usp0000db0,2017-04-26T17:28:53.069Z,"91 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-10-28T14:30:00.200Z,37.29,-116.411,0,6.4,mb,,,,,us,usp0000dat,2016-01-29T22:01:19.580Z,"52 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-10-27T01:00:03.500Z,41.397,88.291,33,5,mb,,,,,us,usp0000da5,2015-06-16T15:38:12.978Z,"163 km ESE of Sishilichengzi, China",nuclear explosion,,,,,reviewed,us,us
+1975-10-24T17:11:26.100Z,37.222,-116.179,0,4.7,mb,,,,,us,usp0000d9c,2016-01-29T21:05:28.760Z,"60 km SW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-10-21T11:59:57.300Z,73.351,55.078,0,6.5,mb,,,,,us,usp0000d7g,2015-06-16T15:38:12.338Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1975-10-18T08:59:56.300Z,70.843,53.69,0,6.7,mb,,,,,us,usp0000d69,2015-06-16T15:38:11.418Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1975-09-29T10:59:58.100Z,69.592,90.396,0,4.9,mb,,,,,us,usp0000czm,2015-06-16T17:20:08.640Z,"78 km E of Talnakh, Russia",nuclear explosion,,,,,reviewed,us,us
+1975-09-06T17:00:00.100Z,37.024,-116.028,0,4.6,mb,,,,,us,usp0000cqp,2016-01-29T21:13:10.860Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-08-12T15:00:02.300Z,70.767,127.147,33,5.2,mb,,,,,us,usp0000ceu,2015-06-16T15:38:10.562Z,"120 km SSW of Tiksi, Russia",nuclear explosion,,,,,reviewed,us,us
+1975-08-07T03:56:57.500Z,49.813,78.24,0,5.2,mb,,,,,us,usp0000cc9,2017-04-26T17:28:42.165Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-06-30T03:26:57.000Z,50,78.999,0,4.8,mb,,,,,us,usp0000bu3,2015-06-16T15:38:09.649Z,"90 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-06-26T12:30:00.200Z,37.279,-116.369,0,6.2,mb,,,,,us,usp0000bss,2016-01-29T21:13:10.330Z,"53 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-06-19T13:00:00.100Z,37.35,-116.32,0,6.1,mb,,,,,us,usp0000bnk,2016-01-29T21:20:55.190Z,"60 km WSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-06-08T03:26:57.500Z,49.764,78.089,0,5.5,mb,,,,,us,usp0000bcb,2017-04-26T17:28:30.681Z,"",nuclear explosion,,,,,reviewed,us,us
+1975-06-03T14:40:00.100Z,37.095,-116.036,0,5.7,mb,,,,,us,usp0000ba1,2016-01-29T21:37:07.700Z,"66 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-06-03T14:20:00.200Z,37.34,-116.523,0,5.9,mb,,,,,us,usp0000ba0,2016-01-29T21:28:48.510Z,"52 km NNE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-05-14T14:00:00.400Z,37.221,-116.474,0,6,mb,,,,,us,usp0000b1a,2016-01-29T21:45:24.680Z,"42 km NE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-04-30T15:00:00.000Z,37.109,-116.029,0,5.2,mb,,,,,us,usp0000aux,2016-01-29T21:53:10.940Z,"64 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-04-27T05:36:57.300Z,49.99,78.984,0,5.6,mb,,,,,us,usp0000atj,2017-04-26T17:28:24.879Z,"90 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-04-24T14:10:00.000Z,37.116,-116.087,0,4.6,mb,,,,,us,usp0000asq,2016-01-29T21:28:48.010Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-04-05T19:45:00.000Z,37.188,-116.214,0,4.8,mb,,,,,us,usp0000ag8,2016-01-29T21:53:08.220Z,"57 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1975-03-11T05:42:57.600Z,49.787,78.251,0,5.4,mb,,,,,us,usp0000a6m,2017-04-26T17:28:16.263Z,"109 km S of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-02-20T05:32:57.700Z,49.82,78.078,0,5.7,mb,,,,,us,usp00009z5,2017-04-26T17:28:13.074Z,"109 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1975-02-06T16:13:01.390Z,37.0398333,-115.9983333,1,4.15,ml,36,248,,0.51,ci,ci3037813,2016-01-29T21:53:08.820Z,"69km ENE of Beatty, NV",nuclear explosion,3.86,31.61,0.228,10,reviewed,ci,ci
+1975-02-06T15:30:04.420Z,36.9636667,-116.2326667,1,3.36,mh,10,262,1.589,0.57,ci,ci3037812,2016-01-29T21:45:23.020Z,"47km E of Beatty, NV",nuclear explosion,10.46,31.61,0.196,16,reviewed,ci,ci
+1974-12-27T05:46:56.800Z,49.96,79.046,0,5.6,mb,,,,,us,usp000098z,2015-06-16T17:19:11.764Z,"95 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-12-16T17:30:00.500Z,36.889,-115.98,5,4.3,mb,,,,,us,usp0000957,2016-01-29T01:13:19.310Z,"44 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-12-16T06:41:02.400Z,49.824,78.117,33,4.8,mb,,,,,us,usp000094z,2017-04-13T21:48:29.992Z,"108 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-12-16T06:23:02.400Z,49.755,78.064,33,5,mb,,,,,us,usp000094y,2017-04-13T21:48:29.504Z,"116 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-12-07T05:59:56.900Z,49.908,77.648,0,4.7,mb,,,,,us,usp0000914,2015-06-16T17:19:10.004Z,"113 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-11-02T04:59:56.700Z,70.817,54.063,0,6.7,mb,,,,,us,usp00008n6,2015-06-16T17:19:07.572Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1974-10-16T06:32:57.500Z,49.972,78.968,0,5.5,mb,,,,,us,usp00008ec,2017-04-26T17:27:59.651Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-09-26T15:05:00.200Z,37.133,-116.068,0,5.6,mb,,,,,us,usp000085t,2016-01-29T01:13:10.440Z,"63 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1974-09-26T14:30:00.780Z,37.0505,-115.9698333,0.01,3.3,ml,10,255,1.8,0.68,ci,ci3319074,2016-01-29T01:42:32.560Z,"71km ENE of Beatty, NV",nuclear explosion,9.82,31.61,0.027,3,reviewed,ci,ci
+1974-09-25T14:00:00.300Z,36.973,-116.002,5,4.4,mb,,,,,us,usp0000857,2016-01-29T01:13:09.780Z,"53 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-09-13T03:02:57.700Z,49.82,78.091,0,5.2,mb,,,,,us,usp000080w,2017-04-26T17:27:55.097Z,"108 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-08-30T15:00:00.200Z,37.15,-116.083,0,5.8,mb,,,,,us,usp00007v1,2016-01-29T01:37:38.690Z,"62 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1974-08-29T14:59:59.600Z,67.233,62.119,0,5.2,mb,,,,,us,usp00007uk,2015-06-16T17:19:02.739Z,"75 km WSW of Zapolyarnyy, Russia",nuclear explosion,,,,,reviewed,us,us
+1974-08-29T09:59:55.500Z,73.366,55.094,0,6.4,mb,,,,,us,usp00007ug,2015-06-16T17:19:00.995Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1974-08-14T14:59:58.300Z,68.913,75.899,0,5.5,mb,,,,,us,usp00007mb,2015-06-16T17:18:59.524Z,"106 km ENE of Mys-Kamennyy, Russia",nuclear explosion,,,,,reviewed,us,us
+1974-08-14T14:00:00.100Z,37.023,-116.036,0,4.6,mb,,,,,us,usp00007m9,2016-01-29T01:18:09.010Z,"59 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1974-07-18T14:00:01.300Z,37.067,-116.066,5,4.1,mb,,,,,us,usp0000772,2016-01-29T01:23:01.980Z,"64 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-07-10T16:00:00.100Z,37.068,-116.032,0,5.7,mb,,,,,us,usp0000727,2016-01-29T01:28:00.140Z,"64 km NNW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,a,us
+1974-07-10T02:56:57.500Z,49.789,78.139,0,5.3,mb,,,,,us,usp0000721,2017-04-26T17:27:46.824Z,"111 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-06-25T03:56:57.600Z,49.889,78.115,0,4.7,mb,,,,,us,usp00006vy,2015-06-16T17:18:55.003Z,"101 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-06-19T15:59:59.900Z,37.198,-116.188,5,5,mb,,,,,us,usp00006t7,2016-01-29T01:37:26.560Z,"60 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-06-06T14:40:00.000Z,37.002,-116.042,2,4.4,mb,,,,,us,usp00006nn,2016-01-29T01:17:55.360Z,"58 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-05-31T03:26:57.400Z,49.952,78.844,0,5.9,mb,,,,,us,usp00006k2,2017-04-26T17:27:41.750Z,"92 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-05-23T13:38:30.200Z,37.064,-116.072,5,4.8,mb,,,,,us,usp00006ff,2016-01-29T01:27:50.970Z,"63 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-05-22T14:15:00.500Z,37.056,-116.107,5,4.4,mb,,,,,us,usp00006f3,2016-01-29T01:27:51.470Z,"60 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,us
+1974-05-18T02:34:55.300Z,26.949,71.704,0,5,mb,,,,,us,usp00006dz,2017-04-26T17:27:41.121Z,"21 km W of Pokaran, India",nuclear explosion,,,,,reviewed,us,us
+1974-05-16T03:02:57.300Z,49.743,78.15,0,5.3,mb,,,,,us,usp00006d2,2017-04-26T17:27:40.395Z,"116 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-04-23T15:13:00.500Z,37.111,-116.093,5,3.4,ml,,,,,us,usp000062q,2016-01-29T01:47:26.460Z,"63 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,us,gs
+1974-02-27T17:00:00.100Z,37.104,-116.053,0,5.8,mb,,,,,us,usp00005eb,2016-01-29T01:37:15.260Z,"65 km SSW of Rachel, Nevada",nuclear explosion,,,,,reviewed,a,us
+1974-01-30T04:57:02.100Z,49.835,78.079,0,5.4,mb,,,,,us,usp000052y,2017-04-26T17:27:25.477Z,"107 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1974-01-30T04:56:57.600Z,49.894,77.993,0,4.6,mb,,,,,us,usp000052x,2017-04-26T17:27:25.477Z,"103 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1973-12-14T07:46:57.000Z,50.036,79.011,0,6,mb,,,,,us,usp00004ht,2015-06-16T17:18:02.012Z,"86 km SSE of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1973-12-12T19:00:00.500Z,36.947,-116.02,5,4.5,mb,,,,,us,usp00004h8,2016-01-29T01:37:06.200Z,"52 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1973-11-28T15:30:00.500Z,36.937,-116.033,5,4.4,mb,,,,,us,usp00004b6,2016-01-29T01:37:03.040Z,"52 km NW of Indian Springs, Nevada",nuclear explosion,,,,,reviewed,us,us
+1973-10-27T06:59:57.400Z,70.779,54.177,0,6.9,mb,,,,,us,usp00003ya,2015-06-16T17:18:00.798Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1973-10-26T05:59:57.600Z,53.656,55.375,0,4.8,mb,,,,,us,usp00003xu,2017-04-26T17:27:09.294Z,"25 km NNE of Sterlibashevo, Russia",nuclear explosion,,,,,reviewed,us,us
+1973-10-26T04:26:57.700Z,49.765,78.196,0,5.3,mb,,,,,us,usp00003xs,2015-06-16T17:17:58.272Z,"112 km SSW of Kurchatov, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1973-10-12T17:00:00.800Z,37.2,-116.203,0,4.8,mb,,,,,us,usp00003tf,2016-01-29T01:47:00.400Z,"59 km ENE of Beatty, Nevada",nuclear explosion,,,,,reviewed,a,us
+1973-10-02T15:14:59.100Z,37.2,-115.8,0.01,3.83,ml,11,261,1.948,0.7,ci,ci3319206,2016-01-29T01:17:23.450Z,"59km WSW of Alamo, NV",nuclear explosion,99,31.61,0.157,10,reviewed,ci,ci
+1973-09-30T04:59:57.500Z,51.608,54.582,0,5.2,mb,,,,,us,usp00003m4,2017-04-26T17:27:03.897Z,"19 km SW of Nizhnepavlovka, Russia",nuclear explosion,,,,,reviewed,us,us
+1973-09-27T06:59:58.000Z,70.756,53.872,0,6,mb,,,,,us,usp00003k1,2015-06-16T17:17:53.924Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
+1973-09-19T02:59:57.200Z,45.635,67.85,0,5.2,mb,,,,,us,usp00003fr,2017-04-26T17:27:02.633Z,"183 km N of Shalq?ya, Kazakhstan",nuclear explosion,,,,,reviewed,us,us
+1973-09-12T06:59:54.300Z,73.302,55.161,0,6.8,mb,,,,,us,usp00003dp,2015-06-16T17:17:30.808Z,"Novaya Zemlya, Russia",nuclear explosion,,,,,reviewed,us,us
