@@ -107,7 +107,7 @@ require([
 
   // define the earthquakes layer
   const earthquakeLayer = new CSVLayer({
-    url: "./earthquake_data_complete1973.csv",
+    url: "./nuclear explosions.csv",
     elevationInfo: exaggeratedElevation,
     screenSizePerspectiveEnabled: false,
     renderer: {
